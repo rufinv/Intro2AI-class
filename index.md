@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Intro 2 AI  -  2021 class
 
 You can use the [editor on GitHub](https://github.com/rufinv/Intro2AI-class/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
