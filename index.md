@@ -1,5 +1,17 @@
 # Intro 2 AI  -  2021 class
 
+| Topic | Lecture # | Teacher |Sub-topic | Date  |  Time   |
+|--------------|----------|---------------|----------------------------|--------------|--------|
+| Symbolic AI  | Lecture 1 | A. Herzig | Symbolic AI: History and Foundations |  March 15, 2021 | 5-7pm |
+| Neural Networks  | Lecture 2 | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  March 22, 2021 | 5-7pm |
+| Computer Vision  | Lecture 3 | Mohit Vaishnav | Image classification |  March 29, 2021 | 5-7pm |
+
+
+
+
+
+====
+
 You can use the [editor on GitHub](https://github.com/rufinv/Intro2AI-class/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
