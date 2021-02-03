@@ -1,4 +1,4 @@
-# Intro 2 AI  -  2021 class
+# [Intro 2 AI  -  2021 class](https://rufinv.github.io/Intro2AI-class)
 
 | Topic | Lecture #  (click for details) | Teacher |Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
