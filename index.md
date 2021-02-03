@@ -1,7 +1,5 @@
 # Intro 2 AI  -  2021 class
 
-### Schedule
-
 | Topic | Lecture #  (click for details) | Teacher |Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Symbolic AI  | Lecture 1 | A. Herzig | Symbolic AI: History and Foundations |  March 15 | 5-7pm |
