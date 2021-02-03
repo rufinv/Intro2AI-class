@@ -19,7 +19,7 @@
 | DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  May 17 | 6-7pm |
 
 ### Audience & Registration
-This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2 audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. If you need a refresher on the basics of Python programming before starting our class, you can try [[this course]](https://www.python-course.eu), [[this one]](https://thepythonguru.com/) or [[this one]](https://www.programiz.com/python-programming).
+This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. If you need a refresher on the basics of Python programming before starting our class, you can try [[this course]](https://www.python-course.eu), [[this one]](https://thepythonguru.com/) or [[this one]](https://www.programiz.com/python-programming).
 
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
 
