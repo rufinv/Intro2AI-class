@@ -8,7 +8,7 @@
 | Computer Vision  | Lecture 4 | Colin Decourt | Object detection, segmentation |  April 5 | 5-7pm |
 | Computer Vision  | Lecture 5 | Benjamin Devillers | Unsupervised/zero/few-shot learning |  April 8 | 5-7pm |
 | Computer Vision  | Lecture 6 | Mohit Vaishnav | Visual Reasoning |  April 12 | 5-7pm |
-| NLP  | Lecture 7 | Romain Bielawski | NLP1 |  April 15 | 5-7pm |
+| NLP  | Lecture 7 | Romain Bielawski | Natural Language Processing basics |  April 15 | 5-7pm |
 | NLP  | Lecture 8 | Romain Bielawski | NLP2 |  April 19 | 5-7pm |
 | NLP  | Lecture 9 | Romain Bielawski | NLP3 |  April 26 | 5-7pm |
 | Audio  | Lecture 10 | Ismail Khalfaoui | Sound processing, speech recognition |  May 3 | 5-7pm |
