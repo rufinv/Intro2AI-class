@@ -17,6 +17,7 @@
 | DL/Neuro  | Lecture 12a | Tim Masquelier | Spiking neural networks |  May 17, 2021 | 5-6pm |
 | DL/Neuro  | Lecture 12b | Leila Reddy | Brain decoding with Machine Learning |  May 17, 2021 | 6-7pm |
 
+### Audience & Registration
 These classes, organized by [ANITI](https://aniti.univ-toulouse.fr/en/), are intended for a M2 audience with no specific background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). For the practical parts of the courses, prior experience with Python programming will be required. 
 
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
