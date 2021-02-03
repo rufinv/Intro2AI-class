@@ -1,5 +1,5 @@
 # Intro 2 AI  -  2021 class
-<a href="registration"><div style="text-align: right"> <h3>Go to registration</h3> </div></a>
+<div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div>
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
