@@ -1,6 +1,8 @@
 # Intro 2 AI  -  2021 class
 
-| Topic | Lecture #  (click for details) | Teacher |Sub-topic | Date  |  Time   |
+### Schedule (click on each lecture for details)
+
+| Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Andreas Herzig | Symbolic AI: History and Foundations |  March 15 | 5-7pm |
 | Neural Networks  | [Lecture 2](./Lecture2/index.md) | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  March 22 | 5-7pm |
