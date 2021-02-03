@@ -22,7 +22,6 @@ These classes, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), are inte
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
 
 To pre-register for the class, **it is mandatory to sign up** with the following form:
-
 #### [Registration form]
 
 Once registered, you will receive the visio-conference links for each class.
