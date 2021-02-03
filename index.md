@@ -13,8 +13,8 @@
 | NLP  | Lecture 7 | Romain Bielawski | NLP1 |  April 15 | 5-7pm |
 | NLP  | Lecture 8 | Romain Bielawski | NLP2 |  April 19 | 5-7pm |
 | NLP  | Lecture 9 | Romain Bielawski | NLP3 |  April 26 | 5-7pm |
-| Audio  | Lecture 10 | Ismail Khalfaoui-Hassani | Sound processing, speech recognition |  May 3 | 5-7pm |
-| DL/Neuro  | Lecture 11 | Rufin VanRullen | Homologies between CNNs and visual pathways |  May 10 | 5-7pm |
+| Audio  | Lecture 10 | I. Khalfaoui-Hassani | Sound processing, speech recognition |  May 3 | 5-7pm |
+| DL/Neuro  | Lecture 11 | Rufin VanRullen | Homologies between brain & CNNs |  May 10 | 5-7pm |
 | DL/Neuro  | Lecture 12a | Tim Masquelier | Spiking neural networks |  May 17 | 5-6pm |
 | DL/Neuro  | Lecture 12b | Leila Reddy | Brain decoding with Machine Learning |  May 17 | 6-7pm |
 
