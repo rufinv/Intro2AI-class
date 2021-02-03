@@ -1,8 +1,8 @@
 # Intro 2 AI  -  2021 class
 
 
-| Topic | Lecture # | Teacher |Sub-topic | Date  |  Time   |
-|--------------|----------|---------------|----------------------------|--------------|--------|
+| Topic | Lecture # (click for details) | Teacher |Sub-topic | Date  |  Time   |
+|--------------|---------|---------------|----------------------------|--------------|--------|
 | Symbolic AI  | Lecture 1 | A. Herzig | Symbolic AI: History and Foundations |  March 15, 2021 | 5-7pm |
 | Neural Networks  | Lecture 2 | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  March 22, 2021 | 5-7pm |
 | Computer Vision  | Lecture 3 | Mohit Vaishnav | Image classification |  March 29, 2021 | 5-7pm |
