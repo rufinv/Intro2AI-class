@@ -1,5 +1,5 @@
 # Intro 2 AI  -  2021 class
-
+<a href="registration"><div style="text-align: right"> Go to registration </div></a>
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
@@ -24,7 +24,7 @@ This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
 
 To pre-register for the class, **it is mandatory to sign up** with the following form:
-#### [Registration form]
+#### [Registration form](registration)
 
 Once registered, you will receive the visio-conference links for each class.
 
