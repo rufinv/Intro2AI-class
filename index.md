@@ -2,7 +2,7 @@
 
 | Topic | Lecture #  (click for details) | Teacher |Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Symbolic AI  | Lecture 1 | Andreas Herzig | Symbolic AI: History and Foundations |  March 15 | 5-7pm |
+| Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Andreas Herzig | Symbolic AI: History and Foundations |  March 15 | 5-7pm |
 | Neural Networks  | Lecture 2 | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  March 22 | 5-7pm |
 | Computer Vision  | Lecture 3 | Mohit Vaishnav | Image classification |  March 29 | 5-7pm |
 | Computer Vision  | Lecture 4 | Colin Decourt | Object detection, segmentation |  April 5 | 5-7pm |
