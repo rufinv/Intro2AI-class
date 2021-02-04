@@ -21,9 +21,14 @@
 | DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  May 17 | 5-6pm |
 | DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  May 17 | 6-7pm |
 
-### Audience & Registration
-This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. If you need a refresher on the basics of Python programming before starting our class, you can try [[this course]](https://www.python-course.eu), [[this one]](https://thepythonguru.com/) or [[this one]](https://www.programiz.com/python-programming). Similarly, if you'd like to brush up math concepts that are relevant to modern AI, you could check [[this blog]](https://www.edureka.co/blog/mathematics-for-machine-learning/) or [[this one]](https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/), or [[this two-hour video]](https://www.youtube.com/watch?v=iyxqcS1u5go) or [[this one]](https://www.youtube.com/watch?v=1VSZtNYMntM). 
+### Audience
+This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
 
+If you need a refresher on the basics of Python programming before starting our class, you can try [[this course]](https://www.python-course.eu), [[this one]](https://thepythonguru.com/) or [[this one]](https://www.programiz.com/python-programming). 
+
+Similarly, if you'd like to brush up math concepts that are relevant to modern AI, you could check [[this blog]](https://www.edureka.co/blog/mathematics-for-machine-learning/) or [[this one]](https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/), or [[this two-hour video]](https://www.youtube.com/watch?v=iyxqcS1u5go) or [[this one]](https://www.youtube.com/watch?v=1VSZtNYMntM). 
+
+### Registration
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
 
 To pre-register for the class, **it is mandatory to sign up** with the following form:
