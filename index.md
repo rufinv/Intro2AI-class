@@ -1,5 +1,8 @@
 # Intro 2 AI  -  2021 class
 <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div>
+
+### Note: the entire course this year is by visio-conference!!
+
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
