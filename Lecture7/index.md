@@ -12,7 +12,7 @@ Teacher: Romain Bielawski (ANITI)
 
 
 ### Prerequisites:
-Knowledge about neural networks principles; knowledge of several NN layer types
+Knowledge about neural networks principles; knowledge of several NN layer types; gradient descent
 
 
 
