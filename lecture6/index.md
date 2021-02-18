@@ -1,4 +1,4 @@
-## Lecture 7 - Introduction to Natural Language Processing
+## Lecture 6 - Introduction to Natural Language Processing
 Teacher: Chloe Braud (IRIT)
 
 ### Contents
