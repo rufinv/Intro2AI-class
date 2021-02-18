@@ -1,4 +1,4 @@
-## Lecture 8 - Attention in NLP
+## Lecture 9 - Attention in NLP
 Teacher: Romain Bielawski (ANITI)
 
 ### Contents
