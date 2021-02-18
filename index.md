@@ -12,10 +12,10 @@
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  March 29 | 5-7pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  April 5 | 5-7pm |
 | Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  April 8 | 5-7pm |
-| Computer Vision  | [Lecture 6](./Lecture6/index.md) | Mohit Vaishnav | Visual Reasoning |  April 12 | 5-7pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Chloe Braud | Natural Language Processing basics |  April 15 | 5-7pm |
-| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  April 19 | 5-7pm |
-| NLP  | [Lecture 9](./Lecture9/index.md) | Romain Bielawski | Attention/Transformers in NLP |  April 26 | 5-7pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  April 12 | 5-7pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  April 15 | 5-7pm |
+| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  April 19 | 5-7pm |
+| Computer Vision  | [Lecture 9](./Lecture9/index.md) | Mohit Vaishnav | Visual Reasoning |  April 26 | 5-7pm |
 | Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  May 3 | 5-7pm |
 | DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  May 10 | 5-7pm |
 | DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  May 17 | 5-6pm |
