@@ -1,5 +1,5 @@
 ## Lecture 7 - Introduction to Natural Language Processing
-Teacher: Romain Bielawski (ANITI)
+Teacher: Chloe Braud (IRIT)
 
 ### Contents
 
