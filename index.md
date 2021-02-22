@@ -9,9 +9,9 @@
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Andreas Herzig | Symbolic AI: History and Foundations |  March 15 | 5-7pm |
 | Neural Networks  | [Lecture 2](./Lecture2/index.md) | A. Zerroug & A. Ben Tanfous | Neural Networks: History and Foundations |  March 22 | 5-7pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  March 29 | 5-7pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  April 5 | 5-7pm |
-| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  April 8 | 5-7pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  March 25 | 5-7pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  March 29 | 5-7pm |
+| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  April 6 | 5-7pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  April 12 | 5-7pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  April 15 | 5-7pm |
 | NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  April 20 | 5-7pm |
