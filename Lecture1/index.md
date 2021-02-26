@@ -1,5 +1,5 @@
 ## Lecture 1 - Symbolic AI, Knowledge Representation, and Reasoning: an Overview
-Teacher: Andreas Herzig (IRIT)
+Teacher: Emiliano Lorini (IRIT)
 
 ### Contents
 
