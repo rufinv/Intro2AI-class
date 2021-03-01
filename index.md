@@ -1,6 +1,8 @@
 # Intro 2 AI  -  2021 class
 <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div>
 
+<div style="color: blue"><span style="font-weight: bold">Very important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">standard</span> session, appropriate for students <span style="font-weight: bold">without</span> prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-advanced-class/">[the advanced session page]</a>. </div>
+
 ### Note: the entire course this year is by visio-conference!!
 
 ### Schedule (click on each lecture for details)
