@@ -1,4 +1,4 @@
-## Lecture 5 - Title
+## Lecture 5 - Object detection and segmentation in computer vision
 Teacher: Colin DECOURT (ANITI)
 
 
@@ -15,6 +15,8 @@ Teacher: Colin DECOURT (ANITI)
   * Fully Convolutional Networks
   * U-Net: Convolutional Networks for Biomedical Image Segmentation 
 * Evaluation metrics in object detection/segmentation 
+
+[**Slides**]()
 
 ---
 #### [(Back to Main Page)](../index.md)
