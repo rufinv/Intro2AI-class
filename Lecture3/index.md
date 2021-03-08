@@ -1,11 +1,20 @@
-## Lecture 3 - Title
-Teacher: name (ANITI)
-
-
+## Lecture 3 - Image classification
+Teacher: Mohit VAISHNAV (ANITI)
 
 ### Contents
 
-(coming soon)
+* Motivation
+* Framework for classification
+  * Overview 
+  * Challenges 
+  * Pipeline 
+* Receptive field and convolutions
+* Datasets 
+* Models of classification
+  * Pre alexnet
+  * Post alexnet 
+* Trends in deep learning (if time permits)
+
 
 ---
 #### [(Back to Main Page)](../index.md)
