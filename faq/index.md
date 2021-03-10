@@ -47,6 +47,10 @@ Feel free to share these links with individual people. Just don't post them on a
 
 Send a message on Slack. You can chat directly with a given teacher, or with the whole class.
 
+* Where are the links (zoom calls, slack workspace, video recordings...)?
+
+You should receive direct emails with each link. Contact us if you haven't received anything.
+
 * My question is not addressed here, what should I do?
 
 Send us a message on Slack.
