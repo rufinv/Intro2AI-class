@@ -43,4 +43,6 @@ The class is offered in 2021 as an off-curriculum optional course. There will be
 
 We may deliver a certificate of attendance if you need one; however, this should be mentioned when you register, and in that case we will monitor your attendance, including participation in at-home assignments.
 
+### Frequently Asked Questions (FAQ)
+[Go here](faq) to check for FAQ.
 
