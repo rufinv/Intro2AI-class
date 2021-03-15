@@ -1,7 +1,7 @@
-## Lecture 1 - Symbolic AI, Knowledge Representation, and Reasoning: an Overview
+## Lecture 1 - Symbolic AI: History and Foundations
 Teacher: Emiliano Lorini (IRIT)
 
-## Slides
+### Slides
 Download the slides [here](./CoursSymbolicAI_ANITI.pdf)
 
 ### Contents
