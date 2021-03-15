@@ -1,15 +1,16 @@
 ## Lecture 1 - Symbolic AI, Knowledge Representation, and Reasoning: an Overview
 Teacher: Emiliano Lorini (IRIT)
 
+## Slides
+Download the slides [here](./CoursSymbolicAI_ANITI.pdf)
+
 ### Contents
 
-* The knowledge representation hypothesis and the history of AI
-* From databases to knowledge bases
-* Reasoning about time and space
-* Dynamics of knowledge bases: actions, updates, revision
-* From knowledge bases to agents: goals and intentions
-* From one agent to many: reasoning about others
-* From many agents to one: group attitudes
+* Introduction: symbolic AI vs subsymbolic AI
+* Chronological view of symbolic AI
+* Formal methods for symbolic AI
+* Logic-based modeling in AI
+* Integration of symbolic and subsymbolic approaches
 
 ### Prerequisites:
 Propositional logic; (little) knowledge of predicate logic
