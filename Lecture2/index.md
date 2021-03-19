@@ -5,13 +5,18 @@ Teachers: Amor Ben Tanfous & Aimen Zerroug (ANITI)
 
 ### Contents
 
-* Perceptrons, multi-layer perceptrons
+* History of neural networks 
 
-* Convolutional networks
+* Artificial neurons - Perceptrons
 
-* Objective and cost functions, optimization, gradient descent, back-propagation
+* Multi-layer perceptrons (MLPs), CNNs and RNNs
 
-* Recurrent networks, back-prop through time, vanishing gradients, GRU/LSTM
+* Objective functions, Gradient descent and Back-propagation
+
+* Loss functions, optimization, regularization and hyperparameters
+
+### Notebook
+Access the collab notebook [here](https://colab.research.google.com/drive/1fmX70jjsri5Imci-aHMYzvK1E2ikijj7?usp=sharing) 
 
 ---
 #### [(Back to Main Page)](../index.md)
