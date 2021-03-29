@@ -12,7 +12,7 @@ Teacher: Benjamin Devillers (ANITI)
   - Generative models: GANs, VAEs
 
 ### Slides
-Access the collab notebook [here](https://docs.google.com/presentation/d/1FJF2uwNeoiXRoosvDzkVG5P72H4yMIhHjmP1r39nxOI/edit?usp=sharing)
+Access the lecture slides [here](https://docs.google.com/presentation/d/1FJF2uwNeoiXRoosvDzkVG5P72H4yMIhHjmP1r39nxOI/edit?usp=sharing)
 
 ### Notebook
 Access the collab notebook [here](https://colab.research.google.com/drive/17QTrw441BzWrkCKMJMwb42iuzTUZNR8t?usp=sharing) 
