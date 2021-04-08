@@ -17,7 +17,7 @@ Teacher: Colin DECOURT (ANITI)
   * Mask R-CNN
 
 [**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/mDbNZDcrRSj2WBF)  
-[**Lab (available)**](https://colab.research.google.com/drive/1K_wrDFeatZOrFBKTaVnxFFuBzv2JtVrU?usp=sharing)
+[**Lab (available)**](https://colab.research.google.com/drive/1K_wrDFeatZOrFBKTaVnxFFuBzv2JtVrU?usp=sharing)  
 [**Additional resources**](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
 
 ---
