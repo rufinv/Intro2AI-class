@@ -1,22 +1,25 @@
 ## Lecture 6 - Introduction to Natural Language Processing
 Teacher: Chloe Braud (IRIT)
 
-### Contents
+## Slides
 
-* What is NLP? Challenges : Syntactic and semantic analysis, disambiguation
-* Text classification & text generation (Sentiment analysis, machine translation, question answering)
-* Tokenization
-* Word and sentence embeddings
-* Datasets and unsupervized learning
-* Application : NLTK & Word2Vec 
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/Lecture%206%20-%20Introduction%20to%20Natural%20Language%20Processing.pdf)
+
+### Notebook
+Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
+
+### Contents
+* What is NLP? 
+* Fundamentals of linguistics: the main levels of linguistic analysis
+* Fundamentals of Natural Language Processing: preprocessing and linguistic processing
+* Hands-on NLP: learning from text data
+* Applications and learning scenarios
+* To go further: limits and challenges
+* Application : Spacy & Scikit-Learn & Word2Vec 
 
 
 ### Prerequisites:
 Knowledge about neural networks principles; knowledge of several NN layer types; gradient descent
-
-
-
-### Further reading:
 
 ---
 #### [(Back to Main Page)](../index.md)
