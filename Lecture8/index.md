@@ -14,6 +14,12 @@ Teacher: Romain Bielawski (ANITI)
 ### Prerequisites:
 Knowledge about neural networks principles; knowledge of several NN layer types; gradient descent & backpropagation; basics of NLP; RNN principles
 
+## Slides
+
+Download the slides [here](https://docs.google.com/presentation/d/1U8CcFwYOmnplEA3qqjGsM7wi0nZ2nGwBtegW2z2Lgd4/edit?usp=sharing)
+
+### Notebook
+Access the collab notebook [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
 
 ### Further reading:
 
