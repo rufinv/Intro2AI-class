@@ -1,6 +1,8 @@
 ## Lecture 8 - Attention/Transformers in NLP
 Teacher: Romain Bielawski (ANITI)
 
+### video [here](https://drive.google.com/file/d/1YeF7TwHO5TbxVDuNYRUI-2P4Vy-sZj1s/view?usp=sharing)
+
 ### Contents
 
 * Attention in LSTM
