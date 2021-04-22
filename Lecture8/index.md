@@ -3,12 +3,11 @@ Teacher: Romain Bielawski (ANITI)
 
 ### Contents
 
-* Vanishing gradient
 * Attention in LSTM
 * Self attention and transformer
 * Embedding : Bert
-* Generation : GPT
-* Application : Story generation
+* Generation : GPT2
+* Application : Grammatical correctness classification, text generation, Movie plot generation
 
 
 ### Prerequisites:
