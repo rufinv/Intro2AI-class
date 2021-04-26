@@ -20,5 +20,13 @@ Teacher: Mohit Vaishnav (ANITI)
   * ARC Dataset
 * Discussion
 
+### Notes
+
+[Link to slide](https://docs.google.com/presentation/d/1ut1Sb6x5H8emAyJZ52-1Qa65tG9SN67ys31OU2CnQtw/edit?usp=sharing)
+
+#### Tutorial Notebook
+
+[Ask me anything!](https://colab.research.google.com/drive/1UdL_K5rJh51I48RLToMPiN9Eh9GrZMOz?usp=sharing)
+
 ---
 #### [(Back to Main Page)](../index.md)
