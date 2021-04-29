@@ -3,10 +3,10 @@ Teacher: Ismail Khalfaoui Hassani (ANITI)
 
 ### Contents
 + How to encode audio ? 
-  + Raw signal / sampling / DFT /iDFT.  
+  	+ Raw signal / sampling / DFT /iDFT.  
 	+ Mel Frequency Cepstral Coefficients (MFCC).
 + Automatic speech recognition (ASR) from 1970 to 2010.
-  + Isolated word recognition.
+  	+ Isolated word recognition.
 	+ Noisy channel models.
 	+ Standard ASR systems.
 + Automatic speech recognition from 2010 to nowadays.
