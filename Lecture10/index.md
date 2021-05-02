@@ -24,10 +24,10 @@ Teacher: Ismail Khalfaoui Hassani (ANITI)
 
 ### Slides
 
-[slides.](https://docs.google.com/presentation/d/1E6-Ief6l4nVNBMXCGZFzzeRCWWltB8ezpwtfjXDIlo4Lol/edit?usp=sharing)
+[slides.](https://docs.google.com/presentation/d/1E6-Ief6l4nVNBMXCGZFzzeRCWWltB8ezpwtfjXDIlo4/edit?usp=sharing)
 
 ### Practical work
 
-[speech commands.](https://colab.research.google.com/drive/1uTH4HtWWH4SAdcoklHJIm0PW-q8MaHkmLol?usp=sharing)
+[speech commands.](https://colab.research.google.com/drive/1uTH4HtWWH4SAdcoklHJIm0PW-q8MaHkm?usp=sharing)
 
 #### [(Back to Main Page)](../index.md)
