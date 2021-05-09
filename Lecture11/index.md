@@ -24,5 +24,5 @@ Teacher: Rufin VanRullen (ANITI)
   + Attention/transformers
   + Recurrence…
 
-
+---
 #### [(Back to Main Page)](../index.md)
