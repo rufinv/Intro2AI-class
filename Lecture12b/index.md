@@ -5,7 +5,10 @@ Teacher: name (ANITI)
 
 ### Contents
 
-(coming soon)
+* fMRI methods (brief introduction)
+* Decoding visual and language stimuli using DNN features
+* Face and scene reconstructions using DNN latent spaces
+
 
 ---
 #### [(Back to Main Page)](../index.md)
