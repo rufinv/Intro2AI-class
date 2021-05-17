@@ -1,4 +1,4 @@
-## Lecture 12b - Title
+## Lecture 12b - Brain decoding with Machine Learning
 Teacher: name (ANITI)
 
 
