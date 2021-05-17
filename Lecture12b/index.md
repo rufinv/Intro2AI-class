@@ -1,5 +1,5 @@
 ## Lecture 12b - Brain decoding with Machine Learning
-Teacher: name (ANITI)
+Teacher: Leila Reddy (ANITI)
 
 
 
