@@ -18,7 +18,9 @@ Teacher: Ismail Khalfaoui Hassani (ANITI).
 	+ [(the link to notebook will be available soon).]( )
 + Spike-timing-dependant plasticity.
 	+ [(the link to notebook will be available soon).]( ) --->
+### Slides
 
+[slides.](https://docs.google.com/presentation/d/1tUZjS8jIrcxzSCyr2DSnMojk0SglYa_CX6YS3pB1THQ/edit?usp=sharing)
 
 #### [(Back to Main Page)](../index.md)
 
