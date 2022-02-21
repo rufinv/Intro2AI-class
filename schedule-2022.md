@@ -7,7 +7,7 @@
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Emiliano Lorini | Symbolic AI: History and Foundations |  March 28 | 5-7pm |
-| Neural Networks  | [Lecture 2](./Lecture2/index.md) | Aimen Zerroug | Neural Networks: History and Foundations |  March 31 | 5-7pm |
+| Neural Networks  | [Lecture 2](./Lecture2/index.md) | Aimen Zerroug | Neural Networks: History and Foundations |  March 30 | 5-7pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  April 4 | 5-7pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  April 7 | 5-7:30pm |
 | Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  April 11 | 5-7pm |
