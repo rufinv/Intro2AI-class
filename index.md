@@ -1,10 +1,8 @@
-# Intro 2 AI  -  2021 class
+# Intro 2 AI  -  2022 class
 <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div>
 
-<div style="color: gray"><span style="font-weight: bold">Important:</span> due to a strong response in the community, we are splitting the class in 2 sessions. This page is for the <span style="font-weight: bold">standard</span> session, appropriate for students <span style="font-weight: bold">without</span> prior training in Maths, Engineering and/or Computer Science. If you are here by mistake, go to <a href="https://rufinv.github.io/Intro2AI-advanced-class/">[the advanced session page]</a>. </div>
-
 ### Note: the entire course this year is by visio-conference!!
-
+<!---
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
@@ -22,6 +20,7 @@
 | DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  May 10 | 5-7pm |
 | DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Ismail Khalfaoui  | Spiking neural networks |  May 17 | 5-6pm |
 | DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  May 17 | 6-7pm |
+-->
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
@@ -33,13 +32,13 @@ Similarly, if you'd like to brush up math concepts that are relevant to modern A
 ### Registration
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
 
-To pre-register for the class, **it is mandatory to sign up** with the following form:
+To register for the class, **it is mandatory to sign up** with the following form:
 #### [Registration form](registration)
 
 Once registered, you will receive the visio-conference links for each class.
 
 ### Grading
-The class is offered in 2021 as an off-curriculum optional course. There will be no grades and no exams. 
+The class is offered in 2022 as an off-curriculum optional course. There will be no grades and no exams. 
 
 We may deliver a certificate of attendance if you need one; however, this should be mentioned when you register, and in that case we will monitor your attendance, including participation in at-home assignments.
 
