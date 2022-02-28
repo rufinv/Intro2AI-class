@@ -1,9 +1,9 @@
 ## Lecture 5 - Object detection and segmentation in computer vision
 Teacher: Colin DECOURT (ANITI)
-
+<!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpblkoldlcctrepMSE1V0/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
-
+-->
 ### Contents
 
 * From classification to object detection
