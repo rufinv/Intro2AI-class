@@ -1,10 +1,11 @@
 ## Lecture 1 - Symbolic AI: History and Foundations
 Teacher: Emiliano Lorini (IRIT)
 
+<!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/16qsEdE6j3iQY8Ea6hB0U1rP1cexWOLyl/view?usp=sharing)
 (this will only be available for approximately 6 weeks after the course)
-
+-->
 ### Slides
 Download the slides [here](./CoursSymbolicAI_ANITI.pdf)
 
