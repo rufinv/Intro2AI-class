@@ -14,8 +14,7 @@ as a separate "practical time" will be reserved at the end of each Lecture.
 
 * Can I ask questions during the class?
 
-The course was explicitly restricted to about 30 students, so as to allow for this kind of interactions. 
-So feel free to unmute your mike and interrupt at any time. This is especially important when concepts need to be clarified. 
+Yes. feel free to unmute your mike and interrupt at any time. This is especially important when concepts need to be clarified. 
 On the other hand, we do have a lot of ground to cover, so please let's not turn the class into a full-blown discussion. 
 There are other opportunities for discussion of the concepts introduced in class--in particular, you can use our slack workspace 
 to chat directly with the teachers and other students, both before and after each class. 
@@ -27,14 +26,12 @@ on--it's not very friendly for teachers to talk to a wall of black screens.
 
 * I may not be able to attend one or two classes, will the sessions be recorded?
 
-We will record each session of the "advanced" class (only), and make it available (to both standard and advanced classes) for a few weeks after the class. 
+We will record each session and make it available for a few weeks after the class. 
 This will allow students to catch up, or to return to the recordings and review any part they did not understand.
 
 * Can I share the zoom link with other people not registered for the class?
 
-The class was initially intended for 30 students. We wanted to keep it small, so that there is time for questions and interactions. 
-Because the demand was so high, we are now splitting in 2 sessions, each with ~33 students. 
-Still, we already had to reject more than 30 prospective students. So, in theory, unregistered students cannot attend the class. 
+In theory, unregistered students cannot attend the class. 
 In practice, however, there is nothing to stop them from watching the zoom sessions. We won't be monitoring the list of participants, 
 or checking their registration. The only thing that we would request is that only the "registered" students can interrupt the class 
 and ask questions--otherwise it will be chaos...
