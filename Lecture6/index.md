@@ -1,9 +1,9 @@
 ## Lecture 6 - Introduction to Natural Language Processing
 Teacher: Chloe Braud (IRIT)
-
+<!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1o1VlvY1h5fFO0TVeeTF4MjyLAjVD32TQ/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
-
+-->
 
 ## Slides
 
