@@ -1,9 +1,9 @@
 ## Lecture 10 - Sound processing & speech recognition
 Teacher: Ismail Khalfaoui Hassani (ANITI)
-
+<!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1nZY9atfsAFoJ_XSWX0mEP82xOotS_uqv/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
-
+-->
 ### Contents
 
 + How to encode audio ? 
