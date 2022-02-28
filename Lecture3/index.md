@@ -1,9 +1,9 @@
 ## Lecture 3 - Image classification
 Teacher: Mohit VAISHNAV (ANITI)
-
+<!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1BxXiaY2VyYxYIVcdQIqQH5e6p8uwUE57/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
-
+-->
 ### Contents
 
 * Motivation
