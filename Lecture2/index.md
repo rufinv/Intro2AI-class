@@ -1,5 +1,6 @@
 ## Lecture 2 - Neural Networks: History and Foundations
 Teachers: Amor Ben Tanfous & Aimen Zerroug (ANITI)
+
 <!--
 ### Lecture video
 
