@@ -1,5 +1,6 @@
 # Intro 2 AI  -  2022 class
-<div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div>
+<!-- <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div> -->
+<div style="text-align: right"><h3>Registration is closed! (come back again next year)</h3> </div>
 
 ### Note: the entire course this year is by visio-conference!!
 
