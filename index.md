@@ -4,7 +4,7 @@
 
 ### Note: the entire course this year is by visio-conference!!
 
-### Tentative Schedule (click on each lecture for details)
+### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
