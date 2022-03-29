@@ -23,7 +23,7 @@ Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-page
 * Loss functions, optimization, regularization and hyperparameters
 
 ### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/1fmX70jjsri5Imci-aHMYzvK1E2ikijj7?usp=sharing) 
+Access the collab notebook [here](https://colab.research.google.com/drive/1dAVeCDQLzHUTRx7P6pcQVShc8n7NYz14?usp=sharing) 
 
 ---
 #### [(Back to Main Page)](../index.md)
