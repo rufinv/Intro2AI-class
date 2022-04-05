@@ -28,6 +28,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWh
 
 [Finetuning Imagenet pretrained model for CALTECH classification](https://colab.research.google.com/drive/1OQFlGJJVQ9BsBpq7uEK342yVWIJ0qofW?usp=sharing)
 
+[Basic CNN modelling and training](https://colab.research.google.com/drive/1gqjT2F8llFGZb4IVAXxcKogfXtiFDHUw?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)
