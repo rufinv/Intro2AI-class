@@ -1,10 +1,9 @@
 ## Lecture 4 - Zero-shot, Few-shot and Unsupervised Learning
 Teacher: Benjamin Devillers (ANITI)
 
-<!--
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/1l3f8bovkkJxhMp4JReHWV0yW42BQuMqU/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
--->
+View the recorded lecture [here](https://drive.google.com/file/d/1inB8IRrFs9ifN1uZyuG22p8h7fsGddlu/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+
 ### Contents
 
 - Zero-shot learning: learning without per-instance labels.
