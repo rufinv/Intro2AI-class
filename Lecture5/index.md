@@ -17,8 +17,8 @@ View the recorded lecture [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpb
   * U-Net: Convolutional Networks for Biomedical Image Segmentation 
   * Mask R-CNN
 
-[**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/mDbNZDcrRSj2WBF)  
-[**Lab (available)**](https://colab.research.google.com/drive/1K_wrDFeatZOrFBKTaVnxFFuBzv2JtVrU?usp=sharing)  
+[**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/LYE4TipQ7fnJ4YE)  
+[**Lab (available)**](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing)  
 [**Additional resources**](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
 
 ---
