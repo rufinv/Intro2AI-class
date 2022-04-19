@@ -1,9 +1,11 @@
 ## Lecture 12a - Spiking neural networks 
 Teacher: Ismail Khalfaoui Hassani (ANITI).
+
 <!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1epVvPrQqPTbZ4fvz7gy/view?usp=sharing) (this will only be available for approximately 6 weeks after the course)
 -->
+
 ### Contents
 + Generalities about spiking neural networks. 
 	+ Classical models.
