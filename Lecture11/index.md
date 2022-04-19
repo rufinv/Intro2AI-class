@@ -1,9 +1,11 @@
 ## Lecture 11 - Homologies between brains and CNNs
 Teacher: Rufin VanRullen (ANITI)
+
 <!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1hpnuCyViyTWzIWPQQKIMmS2LoUReqRwV/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
+
 ### Contents
 
 + What’s in a brain? Crash course in (visual) neuroscience:
