@@ -1,9 +1,11 @@
 ## Lecture 9 - Visual Reasoning
 Teacher: Mohit Vaishnav (ANITI)
+
 <!--
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1MCSwopdOLgAjJ79vslF9ROSgILCkLC4J/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
+
 ### Contents
 
 * Motivation
