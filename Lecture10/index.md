@@ -29,10 +29,10 @@ View the recorded lecture [here](https://drive.google.com/file/d/1nZY9atfsAFoJ_X
 
 ### Slides
 
-[slides.](https://docs.google.com/presentation/d/1E6-Ief6l4nVNBMXCGZFzzeRCWWltB8ezpwtfjXDIlo4/edit?usp=sharing)
+[slides.](https://docs.google.com/presentation/d/1eQcNvO50l6wEBJ5_NxyLU6DJZW8Xym1UUwzmRq11xk4/edit?usp=sharing)
 
 ### Practical work
 
-[speech commands.](https://colab.research.google.com/drive/1uTH4HtWWH4SAdcoklHJIm0PW-q8MaHkm?usp=sharing)
+[speech commands.](https://colab.research.google.com/drive/1z51RHWyMED0eKjQzA1VLgzvdPN2fGxp5?usp=sharing)
 
 #### [(Back to Main Page)](../index.md)
