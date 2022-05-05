@@ -1,5 +1,5 @@
 ## Lecture 12a - Spiking neural networks 
-Teacher: Ismail Khalfaoui Hassani (ANITI).
+Teacher: Javier Cuadrado Aníbarro (PhD Student, CNRS).
 
 <!--
 ### Lecture video
@@ -7,16 +7,29 @@ View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1e
 -->
 
 ### Contents
-+ Generalities about spiking neural networks. 
-	+ Classical models.
-	+ Numerical methods for some ordinary differential equations.
-+ Spiking neural networks and backward propagation.
-	+ Discretization of LIF model.
-	+ Surrogate gradient.
++ Introduction:
+	+ The biological neuron
+	+ Artificial Neural Networks
 
-+ Spike-timing-dependant plasticity.
-	+ The phenomenological model.
-	+ Some properties.
++ What is the interest of Spiking Neural Networks (SNNs)?
+	+ Human Brain vs Artificial Neural Networks
+    	+ Why using SNNs?
+    	+ Neuromorphic Hardware: 
+
++ Neuron models:
+	+ Hodgkin-Huxley Model
+    	+ Izhikevich Model
+    	+ Leaky Integrate-and-Fire (LIF) Model
+
++ Training approaches:
+    	+ Spike-based or Rate-based?
+    	+ Spike-Timing-Dependent Plasticity
+    	+ Backward Propagation
+
++ Closing thoughts:
+	+ Potential Applications
+    	+ References
+
 
 <!--- ### Practical work
 + Spiking neural networks and backward propagation.
@@ -25,7 +38,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1e
 	+ [(the link to notebook will be available soon).]( ) --->
 ### Slides
 
-[slides.](https://docs.google.com/presentation/d/1tUZjS8jIrcxzSCyr2DSnMojk0SglYa_CX6YS3pB1THQ/edit?usp=sharing)
+[SLIDES (WIP)](https://docs.google.com/presentation/d/1AGfa40oBQNUyTGdZhdXLYWsPelGB2nmgltkRg4cnwRc/edit?usp=sharing)
 
 #### [(Back to Main Page)](../index.md)
 
