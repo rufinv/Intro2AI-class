@@ -13,22 +13,22 @@ View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1e
 
 + What is the interest of Spiking Neural Networks (SNNs)?
 	+ Human Brain vs Artificial Neural Networks
-    	+ Why using SNNs?
-    	+ Neuromorphic Hardware: 
+	+ Why using SNNs?
+	+ Neuromorphic Hardware: 
 
 + Neuron models:
 	+ Hodgkin-Huxley Model
-    	+ Izhikevich Model
-    	+ Leaky Integrate-and-Fire (LIF) Model
+	+ Izhikevich Model
+	+ Leaky Integrate-and-Fire (LIF) Model
 
 + Training approaches:
-    	+ Spike-based or Rate-based?
-    	+ Spike-Timing-Dependent Plasticity
-    	+ Backward Propagation
+	+ Spike-based or Rate-based?
+	+ Spike-Timing-Dependent Plasticity
+	+ Backward Propagation
 
 + Closing thoughts:
 	+ Potential Applications
-    	+ References
+	+ References
 
 
 <!--- ### Practical work
