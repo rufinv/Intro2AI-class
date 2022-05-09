@@ -26,5 +26,8 @@ View the recorded lecture [here](https://drive.google.com/file/d/1nq7tBcEK6czNpO
   + Attention/transformers
   + Recurrence…
 
+### Slides
+Download the slides [here](./Cours-Brain-NN-Similarities-2022.pdf)
+
 ---
 #### [(Back to Main Page)](../index.md)
