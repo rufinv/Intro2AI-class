@@ -8,8 +8,8 @@ View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1e
 
 ### Contents
 + Introduction:
-	+ The biological neuron
 	+ Artificial Neural Networks
+	+ The biological neuron
 
 + What is the interest of Spiking Neural Networks (SNNs)?
 	+ Human Brain vs Artificial Neural Networks
@@ -20,13 +20,14 @@ View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1e
 	+ Hodgkin-Huxley Model
 	+ Izhikevich Model
 	+ Leaky Integrate-and-Fire (LIF) Model
+	+ Description Levels
 
 + Training approaches:
-	+ Spike-based or Rate-based?
 	+ Spike-Timing-Dependent Plasticity
 	+ Backward Propagation
 
 + Closing thoughts:
+	+ Conclusions
 	+ Potential Applications
 	+ References
 
@@ -38,7 +39,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1e
 	+ [(the link to notebook will be available soon).]( ) --->
 ### Slides
 
-[SLIDES (WIP)](https://docs.google.com/presentation/d/1AGfa40oBQNUyTGdZhdXLYWsPelGB2nmgltkRg4cnwRc/edit?usp=sharing)
+[SLIDES](https://docs.google.com/presentation/d/1AGfa40oBQNUyTGdZhdXLYWsPelGB2nmgltkRg4cnwRc/edit?usp=sharing)
 
 #### [(Back to Main Page)](../index.md)
 
