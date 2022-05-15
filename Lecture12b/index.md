@@ -1,10 +1,8 @@
 ## Lecture 12b - Brain decoding with Machine Learning
 Teacher: Leila Reddy (ANITI)
 
-<!--
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/1qMh_THQxkKuC1epVvPrQqPTbZ4fvz7gy/view?usp=sharing) starting around 55:00  (this will only be available for approximately 6 weeks after the course)
--->
+  View the recorded lecture [here](https://drive.google.com/file/d/123lmT9MS9i6zFSmeLgL6nuazDmyQToQ8/view?usp=sharing) starting around 58:00  (this will only be available for approximately 6 weeks after the course)
 
 ### Contents
 
