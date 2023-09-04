@@ -1,9 +1,9 @@
 ## Lecture 7 - Recurrent Neural Networks for text processing
 Teacher: Romain Bielawski (ANITI)
-
+<!-- 
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1Gs8LSEkDLlXxj_rRPwOt-dN20r19n0wo/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
-
+-->
 ### Contents
 
 * Sequential data and variable size inputs
