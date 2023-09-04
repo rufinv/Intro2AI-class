@@ -11,7 +11,7 @@
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Emiliano Lorini | Symbolic AI: History and Foundations |  Sept 11 | 1:30-3:30pm |
-| Neural Networks  | [Lecture 2](./Lecture2/index.md) | TBD | Neural Networks: History and Foundations |  Sept 11 | 4-6pm |
+| Neural Networks  | [Lecture 2](./Lecture2/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept 11 | 4-6pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Image classification |  Sept 18 | 1:30-3:30pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept 18 | 3:30-6pm |
 | Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  Sept 25 | 4-6pm |
