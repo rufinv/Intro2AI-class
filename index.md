@@ -1,28 +1,28 @@
-# Intro 2 AI  -  2022 class
+# Intro 2 AI  -  2023 class
 
-<!-- <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div> -->
+<!-- <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div> 
 
 <div style="text-align: right"><h3>Registration is closed! (come back again next year)</h3> </div>
-
-### Note: the entire course this year is by visio-conference!!
+-->
+### Note: In Fall 2023 the course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Conferences).
 
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Emiliano Lorini | Symbolic AI: History and Foundations |  March 28 | 5-7pm |
-| Neural Networks  | [Lecture 2](./Lecture2/index.md) | Aimen Zerroug | Neural Networks: History and Foundations |  March 29 | 5-7pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Mohit Vaishnav | Image classification |  April 4 | 5-7pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  April 7 | 5-7:30pm |
-| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  April 12 | 5-7pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  April 14 | 5-7pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  April 19 | 5-7pm |
-| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  April 21 | 5-7pm |
-| Computer Vision  | [Lecture 9](./Lecture9/index.md) | Mohit Vaishnav | Visual Reasoning |  April 28 | 5-7pm |
-| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  May 5 | 5-7pm |
-| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  May 9 | 5-7pm |
-| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Javier Cuadrado  | Spiking neural networks |  May 12 | 5-6pm |
-| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  May 12 | 6-7pm |
+| Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Emiliano Lorini | Symbolic AI: History and Foundations |  Sept 11 | 1:30-3:30pm |
+| Neural Networks  | [Lecture 2](./Lecture2/index.md) | TBD | Neural Networks: History and Foundations |  Sept 11 | 4-6pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Image classification |  Sept 18 | 1:30-3:30pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept 18 | 3:30-6pm |
+| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  Sept 25 | 4-6pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  Sept 25 | 1:30-3:30pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct 2 | 1:30-3:30pm |
+| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct 2 | 4-6pm |
+| Computer Vision  | [Lecture 9](./Lecture9/index.md) | Leopold Maytie | Visual Reasoning |  Oct 9 | 1:30-3:30pm |
+| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
+| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 23 | 4-6pm |
+| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Javier Cuadrado  | Spiking neural networks |  Oct 23 | 1:30-2:30pm |
+| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  Oct 23 | 2:30-3:30pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
@@ -31,6 +31,7 @@ If you need a refresher on the basics of Python programming before starting our 
 
 Similarly, if you'd like to brush up math concepts that are relevant to modern AI, you could check [[this blog]](https://www.edureka.co/blog/mathematics-for-machine-learning/) or [[this one]](https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/), or [[this two-hour video]](https://www.youtube.com/watch?v=iyxqcS1u5go) or [[this one]](https://www.youtube.com/watch?v=1VSZtNYMntM). 
 
+<!-- 
 ### Registration
 Priority is given to M2 students from Universite de Toulouse. The classes may be open to other interested participants from ANITI or outside, based on availability. 
 
@@ -38,11 +39,12 @@ To register for the class, **it is mandatory to sign up** with the following for
 #### [Registration form](registration)
 
 Once registered, you will receive the visio-conference links for each class.
-
+-->
 ### Grading
-The class is offered in 2022 as an off-curriculum optional course. There will be no grades and no exams. 
+TBA
+<!-- The class is offered in 2022 as an off-curriculum optional course. There will be no grades and no exams. 
 
-We may deliver a certificate of attendance if you need one; however, this should be mentioned when you register, and in that case we will monitor your attendance, including participation in at-home assignments.
+We may deliver a certificate of attendance if you need one; however, this should be mentioned when you register, and in that case we will monitor your attendance, including participation in at-home assignments.-->
 
 ### Frequently Asked Questions (FAQ)
 [Go here](faq) to check for FAQ.
