@@ -1,10 +1,10 @@
 ## Lecture 2 - Neural Networks: History and Foundations
-Teacher: Aimen Zerroug (ANITI)
-
+Teacher: Leopold Maytie (ANITI)
+<!-- 
 ### Lecture video
 
 View the recorded lecture [here](https://drive.google.com/file/d/1kMtJOhz74V955FSmoM8wlEJDX8KbI1PF/view?usp=sharing) (this will only be available for approximately 6 weeks after the course)
-
+-->
 ### Slides
 
 Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture2/Lecture%202.pdf)
