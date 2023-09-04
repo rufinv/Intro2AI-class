@@ -11,6 +11,7 @@ you should check for links in the corresponding Lecture page.
 We will make the notebooks available a couple days in advance of each class (check for links in the corresponding Lecture page). This will give you 
 time to download them and play with them if you wish. It is not mandatory to download them in advance, this can also be done together, 
 as a separate "practical time" will be reserved at the end of each Lecture. 
+
 <!-- 
 * Can I ask questions during the class?
 
@@ -28,6 +29,7 @@ on--it's not very friendly for teachers to talk to a wall of black screens.
 
 We will not record this year's session. But previous years' videos have been recorded and will be made available for a few weeks after the class. 
 This will allow students to catch up, or to return to the recordings and review any part they did not understand.
+
 <!-- 
 * Can I share the zoom link with other people not registered for the class?
 
