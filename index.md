@@ -10,7 +10,7 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Symbolic AI  | [Lecture 1](./Lecture1/index.md) | Emiliano Lorini | Symbolic AI: History and Foundations |  Sept 11 | cancelled |
+| _Symbolic AI_  | _[Lecture 1](./Lecture1/index.md)_ | _Emiliano Lorini_ | _Symbolic AI: History and Foundations_ |  _Sept 11_ | _cancelled_ |
 | Neural Networks  | [Lecture 2](./Lecture2/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept 11 | 1:30-3:30pm  |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Image classification |  Sept 18 | 1:30-3:30pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept 18 | 3:30-6pm |
