@@ -22,7 +22,7 @@
 | Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
 | DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 23 | 4-6pm |
 | DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Javier Cuadrado  | Spiking neural networks |  Oct 23 | 1:30-2:30pm |
-| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  Oct 23 | 2:30-3:30pm |
+| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Rufin VanRullen | Brain decoding with Machine Learning |  Oct 23 | 2:30-3:30pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
