@@ -1,9 +1,11 @@
 ## Lecture 12a - Spiking neural networks 
 Teacher: Javier Cuadrado Aníbarro (PhD Student, CNRS).
+
 <!-- 
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/123lmT9MS9i6zFSmeLgL6nuazDmyQToQ8/view?usp=sharing) (this will only be available for approximately 6 weeks after the course)
 -->
+
 ### Contents
 + Introduction:
 	+ Artificial Neural Networks
