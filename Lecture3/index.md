@@ -1,9 +1,11 @@
 ## Lecture 3 - Image classification
 Teacher: Benjamin DEVILLERS (ANITI)
+
 <!-- 
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWhiIXTXqhB-VgZGXTx9j/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
+
 ### Contents
 
 * Motivation
