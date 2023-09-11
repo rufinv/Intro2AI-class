@@ -1,9 +1,11 @@
 ## Lecture 9 - Visual Reasoning
 Teacher: Leopold Maytie (ANITI)
+
 <!-- 
 ### Lecture video
 View the recorded lecture [here](https://drive.google.com/file/d/1f8MoZRFecxIGyBfAIPGf1C23cY0A36ZF/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
+
 ### Contents
 
 * Motivation
