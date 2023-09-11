@@ -41,7 +41,11 @@ To register for the class, **it is mandatory to sign up** with the following for
 Once registered, you will receive the visio-conference links for each class.
 -->
 ### Grading
-TBA
+Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (that is, from lectures 2-10) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before Nov 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on November 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
+* The addition should be non-trivial
+* The addition should reflect significant work and effort
+* The addition should make it clear that the student has understood the lecture and notebook
+* The addition should *work*, i.e. it should be possible to evaluate the cells without returning an error.
 
 <!-- The class is offered in 2022 as an off-curriculum optional course. There will be no grades and no exams. 
 
