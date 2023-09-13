@@ -1,5 +1,6 @@
 ## Lecture 2 - Neural Networks: History and Foundations
 Teacher: Leopold Maytie (ANITI)
+mail : leopold.maytie@univ-tlse3.fr
 
 <!-- 
 ### Lecture video
