@@ -14,11 +14,9 @@ View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWh
   * Challenges 
   * Pipeline 
 * Receptive field and convolutions
+* Quick intro to Visual Transformers
 * Datasets 
 * Models of classification
-  * Pre alexnet
-  * Post alexnet 
-* Trends in deep learning (if time permits)
 
 ### Notes
 
