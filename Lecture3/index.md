@@ -22,7 +22,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWh
 
 ### Notes
 
-[Link to slide](https://docs.google.com/presentation/d/16at3NRRwaT3wM6SX9UizldGB3Y-1bTFec3ODio2CXzA/edit?usp=sharing)
+[Link to slide](https://docs.google.com/presentation/d/1Z-ZcaVZp4Ex_3LnFEdaiEXaoUEhCubHxaPrhR_utJlQ/edit?usp=sharing)
 
 #### Tutorial Notebook
 
