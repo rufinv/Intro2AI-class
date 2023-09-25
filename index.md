@@ -22,7 +22,7 @@
 | Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
 | DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 23 | 4-6pm |
 | DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Javier Cuadrado  | Spiking neural networks |  Oct 23 | 1:30-2:30pm |
-| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Rufin VanRullen | Brain decoding with Machine Learning |  Oct 23 | 2:30-3:30pm |
+| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  Oct 23 | 2:30-3:30pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
@@ -41,7 +41,7 @@ To register for the class, **it is mandatory to sign up** with the following for
 Once registered, you will receive the visio-conference links for each class.
 -->
 ### Grading
-Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (that is, from lectures 2-10) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before Nov 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on November 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
+Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (that is, from lectures 2-10) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (though projects with original and creative thinking might get some extra points). The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before Nov 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on November 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
 * The addition should be non-trivial
 * The addition should reflect significant work and effort
 * The addition should make it clear that the student has understood the lecture and notebook
