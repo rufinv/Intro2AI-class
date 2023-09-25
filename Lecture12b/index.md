@@ -1,5 +1,5 @@
 ## Lecture 12b - Brain decoding with Machine Learning
-Teacher: Rufin VANRULLEN (ANITI)
+Teacher: Leila REDDY (CerCo)
 
 <!-- 
 ### Lecture video
