@@ -39,7 +39,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1f8MoZRFecxIGyB
 
 #### Tutorial Notebook
 
-[Ask me anything!](https://colab.research.google.com/drive/17bFp1GR2t1UlkG5uqOWAZDZAVMyIHnaC?usp=sharing)
+[Link to Colab Notebook](https://colab.research.google.com/drive/17bFp1GR2t1UlkG5uqOWAZDZAVMyIHnaC?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)
