@@ -8,28 +8,38 @@ View the recorded lecture [here](https://drive.google.com/file/d/1f8MoZRFecxIGyB
 
 ### Contents
 
-* Motivation
-* Vision and Language related reasoning
-  * Overview
+* Introduction
+* Recall
+  * MLP
+  * CNN
+  * RNN
+  * Transformers
+  * How to train a model 
+* How to learn from multimodality ?
   * Datasets
-  * Methods 
-* More balanced Dataset
-  * CLEVR
-* Fluidic Intelligence
-  * Dataset
-  * Methods
-* Other important Dataset
-  * ObjectNet
-  * ARC Dataset
-* Discussion
+  * Methods of fusion, coordination
+  * Foundation Models
+* Multimodal Tasks
+  * Image Captioning
+  * Visual Question Answering
+  * Multimodal conversational AI system
+  * Vision-and-Language Navigation
+* Examples of Models
+  * CoDi
+  * ImageBind
+  * BLIP-2
+  * CoCa
+  * Inner Monologue
+  * Palm-E
+* Conclusion
 
 ### Notes
 
-[Link to slide](https://docs.google.com/presentation/d/1ut1Sb6x5H8emAyJZ52-1Qa65tG9SN67ys31OU2CnQtw/edit?usp=sharing)
+[Link to slide](https://docs.google.com/presentation/d/1RhRBy4dZYMCBhC-q_Xhm0KDO3PMpsPFvi8NoKLFM9rY/edit?usp=sharing)
 
 #### Tutorial Notebook
 
-[Ask me anything!](https://colab.research.google.com/drive/1UdL_K5rJh51I48RLToMPiN9Eh9GrZMOz?usp=sharing)
+[Ask me anything!](https://colab.research.google.com/drive/17bFp1GR2t1UlkG5uqOWAZDZAVMyIHnaC?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)
