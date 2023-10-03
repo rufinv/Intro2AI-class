@@ -18,7 +18,7 @@
 | NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  Sept 25 | 1:30-3:30pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct 2 | 1:30-3:30pm |
 | NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct 2 | 4-6pm |
-| Computer Vision  | [Lecture 9](./Lecture9/index.md) | Leopold Maytie | Visual Reasoning |  Oct 9 | 1:30-3:30pm |
+| Computer Vision  | [Lecture 9](./Lecture9/index.md) | Leopold Maytie | Multimodal Learning |  Oct 9 | 1:30-3:30pm |
 | Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
 | DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 23 | 4-6pm |
 | DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Javier Cuadrado  | Spiking neural networks |  Oct 23 | 1:30-2:30pm |
