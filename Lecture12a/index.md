@@ -14,13 +14,13 @@ View the recorded lecture [here](https://drive.google.com/file/d/123lmT9MS9i6zFS
 + What is the interest of Spiking Neural Networks (SNNs)?
 	+ Human Brain vs Artificial Neural Networks
 	+ Why using SNNs?
+	+ Description Levels
 	+ Neuromorphic Hardware: 
 
 + Neuron models:
 	+ Hodgkin-Huxley Model
 	+ Izhikevich Model
 	+ Leaky Integrate-and-Fire (LIF) Model
-	+ Description Levels
 
 + Training approaches:
 	+ Spike-Timing-Dependent Plasticity
