@@ -39,7 +39,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/123lmT9MS9i6zFS
 	+ [(the link to notebook will be available soon).]( ) --->
 ### Slides
 
-[SLIDES]([https://docs.google.com/presentation/d/1AGfa40oBQNUyTGdZhdXLYWsPelGB2nmgltkRg4cnwRc/edit?usp=sharing](https://docs.google.com/presentation/d/1-qXFBjQ9PVMhjwtS2icwhn8zYT89ez5FBjRdfC8fnr4/edit?usp=share_link)https://docs.google.com/presentation/d/1-qXFBjQ9PVMhjwtS2icwhn8zYT89ez5FBjRdfC8fnr4/edit?usp=share_link)
+[SLIDES](https://docs.google.com/presentation/d/1-qXFBjQ9PVMhjwtS2icwhn8zYT89ez5FBjRdfC8fnr4/edit?usp=share_link)
 
 #### [(Back to Main Page)](../index.md)
 
