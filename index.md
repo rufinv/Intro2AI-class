@@ -27,7 +27,7 @@
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
 
-Do you need a refresher on the basics of Python programming before starting our class? To find out, look at [[this online course]](https://thepythonguru.com/), from lecture "Datatype and Variables" to lecture "Python object and classes" (included). There is nothing to install, all the code examples can be run interactively in the browser. If your Python level is sufficient, you will go through this course in 30 minutes. If you're a beginner, it might take you 10+ hours, but *this will be necessary* to follow our class...
+**Do you need a refresher on the basics of Python programming before starting our class?** To find out, look at [[this online course]](https://thepythonguru.com/), from lecture "Datatype and Variables" to lecture "Python object and classes" (included). There is nothing to install, all the code examples can be run interactively in the browser. If your Python level is sufficient, you will go through this course in 30 minutes. If you're a beginner, it might take you 10+ hours, but **this will be necessary** to follow our class...
 
 Other useful resources include [[this course]](https://www.python-course.eu), or [[this one]](https://www.programiz.com/python-programming). 
 
