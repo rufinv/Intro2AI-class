@@ -1,4 +1,4 @@
-## Lecture 12a - Spiking neural networks 
+## Lecture 11a - Spiking neural networks 
 Teacher: Javier Cuadrado Aníbarro (PhD Student, CNRS).
 
 <!-- 
