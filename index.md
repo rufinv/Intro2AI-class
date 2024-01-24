@@ -1,10 +1,10 @@
-# Intro 2 AI  -  Fall 2023 class
+# Intro 2 AI  -  Spring 2024 class
 
 <!-- <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div> 
 
 <div style="text-align: right"><h3>Registration is closed! (come back again next year)</h3> </div>
 -->
-### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Conferences).
+### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Visio-Conference, 1st floor). It will also be broadcast on zoom for students located abroad.
 
 ### Schedule (click on each lecture for details)
 
