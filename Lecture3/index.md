@@ -1,4 +1,4 @@
-## Lecture 4 - Zero-shot, Few-shot and Unsupervised Learning
+## Lecture 3 - Zero-shot, Few-shot and Unsupervised Learning
 Teacher: Benjamin Devillers (ANITI)
 
 <!-- 
