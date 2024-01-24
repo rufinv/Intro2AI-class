@@ -1,4 +1,4 @@
-## Lecture 7 - Recurrent Neural Networks for text processing
+## Lecture 6 - Recurrent Neural Networks for text processing
 Teacher: Romain Bielawski (ANITI)
 
 <!-- 
