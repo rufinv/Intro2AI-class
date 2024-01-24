@@ -1,4 +1,4 @@
-## Lecture 9 - Visual Reasoning
+## Lecture 8 - Multimodal Learning
 Teacher: Leopold Maytie (ANITI)
 
 <!-- 
