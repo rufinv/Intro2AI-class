@@ -1,27 +1,29 @@
-## Lecture 5 - Object detection and segmentation in computer vision
-Teacher: Colin DECOURT (ANITI)
+## Lecture 6 - Introduction to Natural Language Processing
+Teacher: Chloe Braud (IRIT)
 
 <!-- 
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpblkoldlcctrepMSE1V0/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture [here](https://drive.google.com/file/d/1o1VlvY1h5fFO0TVeeTF4MjyLAjVD32TQ/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
 
+## Slides
+
+Download the slides [here](./%5BANITI%5D%20Lecture%206%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%202023-2024.pdf)
+### Notebook
+Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
+
 ### Contents
+* What is NLP? 
+* Fundamentals of linguistics: the main levels of linguistic analysis
+* Fundamentals of Natural Language Processing: preprocessing and linguistic processing
+* Hands-on NLP: learning from text data
+* Applications and learning scenarios
+* To go further: limits and challenges
+* Application : Spacy & Scikit-Learn & Word2Vec 
 
-* From classification to object detection
-* Object detection/segmentation challenges (MS-COCO, Pascal VOC)
-* Object detection:
-  * Region-based detector vs. single shot detector
-  * From R-CNN to Faster R-CNN
-  * YOLO: an overview  
-* Evaluation metrics in object detection/segmentation 
-* Object segmentation  
-  * U-Net: Convolutional Networks for Biomedical Image Segmentation 
-  * Mask R-CNN
 
-[**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/LYE4TipQ7fnJ4YE)  
-[**Lab (available)**](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing)  
-[**Additional resources**](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
+### Prerequisites:
+Knowledge about neural networks principles; knowledge of several NN layer types; gradient descent
 
 ---
 #### [(Back to Main Page)](../index.md)

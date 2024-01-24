@@ -1,38 +1,35 @@
-## Lecture 10 - Sound processing & speech recognition
-Teacher: Ismail Khalfaoui Hassani (ANITI)
+## Lecture 11 - Homologies between brains and CNNs
+Teacher: Rufin VanRullen (ANITI)
 
 <!-- 
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/15XgYwhUfVyOmPpnsTtHIsIOz5ge5mpM9/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture [here](https://drive.google.com/file/d/1nq7tBcEK6czNpO2-nHd-4pj1dhmMHsbi/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
 
 ### Contents
 
-+ How to encode audio ? 
++ What’s in a brain? Crash course in (visual) neuroscience:
+  + Cortical Hierarchy
+  + Receptive fields
+  + Selectivities (features, object, classes)
+  + Concept cells
 
-  + Raw signal / sampling / DFT /iDFT.  
-  + Mel Frequency Cepstral Coefficients (MFCC).
++ What’s in a CNN? Deepdream, visualization (explainability/interpretability) tools, examples…
 
-+ Automatic speech recognition (ASR) from 1970 to 2010.
++ Brain/CNN comparisons:
+  + RSA (representational similarity analysis): fMRI, MEG, single-units
+  + Brainscore
+  + Case study: CLIP-multimodal
 
-  + Isolated word recognition.
-  + Noisy channel models.
-  + Standard ASR systems.
-
-+ Automatic speech recognition from 2010 to nowadays.
-
-  + End-to-end ASR systems.
-  + Convolutional neural networks for speech processing.
-  + Recurrent neural networks.
-  + Connectionist temporal classification (CTC). 
-  + Hybrid Transformers with CTC.
++ Other issues about the biological plausibility of Deep Learning: 
+  + Spikes
+  + Adversarial attacks
+  + Backprop
+  + Attention/transformers
+  + Recurrence…
 
 ### Slides
+Download the slides [here](./Cours-Brain-NN-Similarities-2022.pdf)
 
-[slides.](https://docs.google.com/presentation/d/1eQcNvO50l6wEBJ5_NxyLU6DJZW8Xym1UUwzmRq11xk4/edit?usp=sharing)
-
-### Practical work
-
-[speech commands.](https://colab.research.google.com/drive/1z51RHWyMED0eKjQzA1VLgzvdPN2fGxp5?usp=sharing)
-
+---
 #### [(Back to Main Page)](../index.md)

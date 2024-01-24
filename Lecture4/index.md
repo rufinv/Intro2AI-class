@@ -1,24 +1,27 @@
-## Lecture 4 - Zero-shot, Few-shot and Unsupervised Learning
-Teacher: Benjamin Devillers (ANITI)
+## Lecture 5 - Object detection and segmentation in computer vision
+Teacher: Colin DECOURT (ANITI)
 
 <!-- 
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/1inB8IRrFs9ifN1uZyuG22p8h7fsGddlu/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpblkoldlcctrepMSE1V0/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
 
 ### Contents
 
-- Zero-shot learning: learning without per-instance labels.
-- Few-shot learning: learning with a few training examples.
-- Unsupervised learning: learning without labels. Differences with zero-shot learning.
-  - Auto-encoders, contrastive learning
-  - Generative models: GANs, VAEs
+* From classification to object detection
+* Object detection/segmentation challenges (MS-COCO, Pascal VOC)
+* Object detection:
+  * Region-based detector vs. single shot detector
+  * From R-CNN to Faster R-CNN
+  * YOLO: an overview  
+* Evaluation metrics in object detection/segmentation 
+* Object segmentation  
+  * U-Net: Convolutional Networks for Biomedical Image Segmentation 
+  * Mask R-CNN
 
-### Slides
-Access the lecture slides [here](https://docs.google.com/presentation/d/1FJF2uwNeoiXRoosvDzkVG5P72H4yMIhHjmP1r39nxOI/edit?usp=sharing)
-
-### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/17QTrw441BzWrkCKMJMwb42iuzTUZNR8t?usp=sharing) 
+[**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/LYE4TipQ7fnJ4YE)  
+[**Lab (available)**](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing)  
+[**Additional resources**](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
 
 ---
 #### [(Back to Main Page)](../index.md)

@@ -1,34 +1,24 @@
-## Lecture 3 - Image classification
-Teacher: Benjamin DEVILLERS (ANITI)
+## Lecture 4 - Zero-shot, Few-shot and Unsupervised Learning
+Teacher: Benjamin Devillers (ANITI)
 
 <!-- 
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWhiIXTXqhB-VgZGXTx9j/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture [here](https://drive.google.com/file/d/1inB8IRrFs9ifN1uZyuG22p8h7fsGddlu/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
 
 ### Contents
 
-* Motivation
-* Framework for classification
-  * Overview 
-  * Challenges 
-  * Pipeline 
-* Receptive field and convolutions
-* Quick intro to Visual Transformers
-* Datasets 
-* Models of classification
+- Zero-shot learning: learning without per-instance labels.
+- Few-shot learning: learning with a few training examples.
+- Unsupervised learning: learning without labels. Differences with zero-shot learning.
+  - Auto-encoders, contrastive learning
+  - Generative models: GANs, VAEs
 
-### Notes
+### Slides
+Access the lecture slides [here](https://docs.google.com/presentation/d/1FJF2uwNeoiXRoosvDzkVG5P72H4yMIhHjmP1r39nxOI/edit?usp=sharing)
 
-[Link to slide](https://docs.google.com/presentation/d/1Z-ZcaVZp4Ex_3LnFEdaiEXaoUEhCubHxaPrhR_utJlQ/edit?usp=sharing)
-
-#### Tutorial Notebook
-
-[Basic CNN modelling and training](https://colab.research.google.com/drive/1gqjT2F8llFGZb4IVAXxcKogfXtiFDHUw?usp=sharing)
-
-[Loading pretrained weight and evaluating](https://colab.research.google.com/drive/19C0zIl9KHJmjKn075J502byFFc1mzogL?usp=sharing)
-
-[Finetuning Imagenet pretrained model for CALTECH classification](https://colab.research.google.com/drive/1OQFlGJJVQ9BsBpq7uEK342yVWIJ0qofW?usp=sharing)
+### Notebook
+Access the collab notebook [here](https://colab.research.google.com/drive/17QTrw441BzWrkCKMJMwb42iuzTUZNR8t?usp=sharing) 
 
 ---
 #### [(Back to Main Page)](../index.md)

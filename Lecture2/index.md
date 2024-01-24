@@ -1,32 +1,34 @@
-## Lecture 2 - Neural Networks: History and Foundations
-Teacher: Leopold Maytie (ANITI)
-
-mail : leopold.maytie@univ-tlse3.fr
+## Lecture 3 - Image classification
+Teacher: Benjamin DEVILLERS (ANITI)
 
 <!-- 
 ### Lecture video
-
-View the recorded lecture [here](https://drive.google.com/file/d/1kMtJOhz74V955FSmoM8wlEJDX8KbI1PF/view?usp=sharing) (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWhiIXTXqhB-VgZGXTx9j/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
-
-### Slides
-
-Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture2/Lecture%202.pdf)
 
 ### Contents
 
-* History of neural networks 
+* Motivation
+* Framework for classification
+  * Overview 
+  * Challenges 
+  * Pipeline 
+* Receptive field and convolutions
+* Quick intro to Visual Transformers
+* Datasets 
+* Models of classification
 
-* Artificial neurons - Perceptrons
+### Notes
 
-* Multi-layer perceptrons (MLPs), CNNs and RNNs
+[Link to slide](https://docs.google.com/presentation/d/1Z-ZcaVZp4Ex_3LnFEdaiEXaoUEhCubHxaPrhR_utJlQ/edit?usp=sharing)
 
-* Objective functions, Gradient descent and Back-propagation
+#### Tutorial Notebook
 
-* Loss functions, optimization, regularization and hyperparameters
+[Basic CNN modelling and training](https://colab.research.google.com/drive/1gqjT2F8llFGZb4IVAXxcKogfXtiFDHUw?usp=sharing)
 
-### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/1on3gfbhomAslfiQ9kaf7ENPH0ctazny1?usp=sharing)
+[Loading pretrained weight and evaluating](https://colab.research.google.com/drive/19C0zIl9KHJmjKn075J502byFFc1mzogL?usp=sharing)
+
+[Finetuning Imagenet pretrained model for CALTECH classification](https://colab.research.google.com/drive/1OQFlGJJVQ9BsBpq7uEK342yVWIJ0qofW?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)

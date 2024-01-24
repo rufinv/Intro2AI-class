@@ -1,31 +1,45 @@
-## Lecture 8 - Attention/Transformers in NLP
-Teacher: Romain Bielawski (ANITI)
+## Lecture 9 - Visual Reasoning
+Teacher: Leopold Maytie (ANITI)
 
 <!-- 
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/1YeF7TwHO5TbxVDuNYRUI-2P4Vy-sZj1s/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture [here](https://drive.google.com/file/d/1f8MoZRFecxIGyBfAIPGf1C23cY0A36ZF/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
 
 ### Contents
 
-* Attention in LSTM
-* Self attention and transformer
-* Embedding : Bert
-* Generation : GPT2
-* Application : Grammatical correctness classification, text generation, Movie plot generation
+* Introduction
+* Recall
+  * MLP
+  * CNN
+  * RNN
+  * Transformers
+  * How to train a model 
+* How to learn from multimodality ?
+  * Datasets
+  * Methods of fusion, coordination
+  * Foundation Models
+* Multimodal Tasks
+  * Image Captioning
+  * Visual Question Answering
+  * Multimodal conversational AI system
+  * Vision-and-Language Navigation
+* Examples of Models
+  * CoDi
+  * ImageBind
+  * BLIP-2
+  * CoCa
+  * Inner Monologue
+  * Palm-E
+* Conclusion
 
+### Notes
 
-### Prerequisites:
-Knowledge about neural networks principles; knowledge of several NN layer types; gradient descent & backpropagation; basics of NLP; RNN principles
+[Link to slide](https://docs.google.com/presentation/d/1RhRBy4dZYMCBhC-q_Xhm0KDO3PMpsPFvi8NoKLFM9rY/edit?usp=sharing)
 
-## Slides
+#### Tutorial Notebook
 
-Download the slides [here](https://docs.google.com/presentation/d/1U8CcFwYOmnplEA3qqjGsM7wi0nZ2nGwBtegW2z2Lgd4/edit?usp=sharing)
-
-### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
-
-### Further reading:
+[Link to Colab Notebook](https://colab.research.google.com/drive/17bFp1GR2t1UlkG5uqOWAZDZAVMyIHnaC?usp=sharing)
 
 ---
 #### [(Back to Main Page)](../index.md)
