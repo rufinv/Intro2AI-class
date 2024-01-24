@@ -10,7 +10,7 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  March 1 | 2:4pm  |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  March 1 | 2-4pm  |
 | Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  March 4 | 2-4pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  March 8 | 2-4pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  March 11 | 2-4pm |
