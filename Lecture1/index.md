@@ -1,4 +1,4 @@
-## Lecture 2 - Neural Networks: History and Foundations
+## Lecture 1 - Neural Networks: History and Foundations
 Teacher: Leopold Maytie (ANITI)
 
 mail : leopold.maytie@univ-tlse3.fr
@@ -11,7 +11,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1kMtJOhz74V955F
 
 ### Slides
 
-Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture2/Lecture%202.pdf)
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture2/Lecture%201.pdf)
 
 ### Contents
 
