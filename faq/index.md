@@ -25,9 +25,10 @@ to chat directly with the teachers and other students, both before and after eac
 This is up to you, but it would be nice if 3 or 4 students with good internet connections would agree to keep their video 
 on--it's not very friendly for teachers to talk to a wall of black screens. 
 -->
+
 * I may not be able to attend one or two classes, will the sessions be recorded?
 
-We will not record this year's session. But previous years' videos have been recorded and will be made available for a few weeks after the class. 
+We will both zoom and record this year's lectures. <!-- But previous years' videos have been recorded and will be made available for a few weeks after the class. -->
 This will allow students to catch up, or to return to the recordings and review any part they did not understand.
 
 <!-- 
@@ -44,11 +45,12 @@ Feel free to share these links with individual people. Just don't post them on a
 * Where can I get help about the practical parts, Jupyter notebooks, tutorials and assignments?
 
 Send a message on Slack. You can chat directly with a given teacher, or with the whole class.
+-->
 
-* Where are the links (zoom calls, slack workspace, video recordings...)?
+* Where are the links (zoom calls, video recordings...)?
 
 You should receive direct emails with each link. Contact us if you haven't received anything.
--->
+
 
 * My question is not addressed here, what should I do?
 
