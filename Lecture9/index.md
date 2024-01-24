@@ -1,4 +1,4 @@
-## Lecture 10 - Sound processing & speech recognition
+## Lecture 9 - Sound processing & speech recognition
 Teacher: Ismail Khalfaoui Hassani (ANITI)
 
 <!-- 
