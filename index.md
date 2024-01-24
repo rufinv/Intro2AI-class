@@ -10,19 +10,15 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| _Symbolic AI_  | _[Lecture 1](./Lecture1/index.md)_ | _Emiliano Lorini_ | _Symbolic AI: History and Foundations_ |  _Sept 11_ | _cancelled_ |
-| Neural Networks  | [Lecture 2](./Lecture2/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept 11 | 1:30-3:30pm  |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Image classification |  Sept 18 | 1:30-3:30pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept 18 | 3:30-6pm |
-| Computer Vision  | [Lecture 5](./Lecture5/index.md) | Colin Decourt | Object detection, segmentation |  Sept 25 | 4-6pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Chloe Braud | Natural Language Processing basics |  Sept 25 | 1:30-3:30pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct 2 | 1:30-3:30pm |
-| NLP  | [Lecture 8](./Lecture8/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct 2 | 4-6pm |
-| Computer Vision  | [Lecture 9](./Lecture9/index.md) | Leopold Maytie | Multimodal Learning |  Oct 9 | 1:30-3:30pm |
-| Audio  | [Lecture 10](./Lecture10/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
-| DL/Neuro  | [Lecture 11](./Lecture11/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 23 | 4-6pm |
-| DL/Neuro  | [Lecture 12a](./Lecture12a/index.md) | Javier Cuadrado  | Spiking neural networks |  Oct 23 | 1:30-2:30pm |
-| DL/Neuro  | [Lecture 12b](./Lecture12b/index.md) | Leila Reddy | Brain decoding with Machine Learning |  Oct 23 | 2:30-3:30pm |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept 11 | 1:30-3:30pm  |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  Sept 18 | 1:30-3:30pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept 18 | 3:30-6pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept 25 | 4-6pm |
+| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  Sept 25 | 1:30-3:30pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct 2 | 1:30-3:30pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct 2 | 4-6pm |
+| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct 9 | 1:30-3:30pm |
+| Audio  | [Lecture 9](./Lecture9/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
@@ -42,8 +38,9 @@ To register for the class, **it is mandatory to sign up** with the following for
 
 Once registered, you will receive the visio-conference links for each class.
 -->
+
 ### Grading
-Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (that is, from lectures 2-10) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (but projects with original and creative thinking will get extra points). The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before Nov 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on November 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
+Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (that is, from lectures 2-10) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (but projects with original and creative thinking will get extra points). The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before May 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on May 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
 * The addition should be clearly marked in the notebook, e.g. with a title "MY PERSONAL ADDITION IN THE 3 CELLS BELOW"
 * The addition should be explained (e.g. with comments in the code), so one can at least know what you intended to achieve
 * The addition should be non-trivial
