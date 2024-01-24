@@ -10,15 +10,15 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept 11 | 1:30-3:30pm  |
-| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  Sept 18 | 1:30-3:30pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept 18 | 3:30-6pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept 25 | 4-6pm |
-| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  Sept 25 | 1:30-3:30pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct 2 | 1:30-3:30pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct 2 | 4-6pm |
-| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct 9 | 1:30-3:30pm |
-| Audio  | [Lecture 9](./Lecture9/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  Oct 9 | 4-6pm |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  March 1 | 2:4pm  |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  March 4 | 2-4pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  March 8 | 2-4pm |
+| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  March 11 | 2-4pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  March 15 | 2-4pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  March 18 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  March 22 | 2-4pm |
+| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  March 25 | 2-4pm |
+| Audio  | [Lecture 9](./Lecture9/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  March 29 | 2-4pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
