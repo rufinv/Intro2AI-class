@@ -1,5 +1,5 @@
-## Lecture 5 - Object detection and segmentation in computer vision
-Teacher: Colin DECOURT (ANITI)
+## Lecture 4 - Object detection and segmentation in computer vision
+Teacher: Mitja NIKOLAUS (CNRS)
 
 <!-- 
 ### Lecture video
