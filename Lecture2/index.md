@@ -1,4 +1,4 @@
-## Lecture 3 - Image classification
+## Lecture 2 - Image classification
 Teacher: Benjamin DEVILLERS (ANITI)
 
 <!-- 
