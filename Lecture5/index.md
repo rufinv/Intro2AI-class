@@ -1,4 +1,4 @@
-## Lecture 6 - Introduction to Natural Language Processing
+## Lecture 5 - Introduction to Natural Language Processing
 Teacher: Chloe Braud (IRIT)
 
 <!-- 
@@ -8,7 +8,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1o1VlvY1h5fFO0T
 
 ## Slides
 
-Download the slides [here](./%5BANITI%5D%20Lecture%206%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%202023-2024.pdf)
+Download the slides [here](./%5BANITI%5D%20Lecture%205%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%202023-2024.pdf)
 ### Notebook
 Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
