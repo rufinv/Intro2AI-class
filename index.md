@@ -19,6 +19,7 @@
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  March 22 | 2-4pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  March 25 | 2-4pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  March 29 | 2-4pm |
+| TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
