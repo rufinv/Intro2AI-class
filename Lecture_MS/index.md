@@ -1,5 +1,5 @@
 ## Lecture 10 - TITLE
-Teacher: Mathieu Serrurier (IMT/ANITI)
+Teacher: Mathieu Serrurier (IRIT/ANITI)
 
 ### Contents
 
