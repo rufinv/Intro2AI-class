@@ -3,7 +3,7 @@ Teacher: Mitja NIKOLAUS (CNRS)
 
 <!-- 
 ### Lecture video
-View the recorded lecture [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpblkoldlcctrepMSE1V0/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
+View the recorded lecture from 2021 [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpblkoldlcctrepMSE1V0/view?usp=sharing)  (this will only be available for approximately 6 weeks after the course)
 -->
 
 ### Contents
@@ -19,9 +19,8 @@ View the recorded lecture [here](https://drive.google.com/file/d/16Nx4dTLCAnTZpb
   * U-Net: Convolutional Networks for Biomedical Image Segmentation 
   * Mask R-CNN
 
-[**Slides (available)**](https://drive3-pilote.renater.fr/index.php/s/LYE4TipQ7fnJ4YE)  
-[**Lab (available)**](https://drive.google.com/drive/folders/1vBUOt06V9fNeDZp03MEKuKNvj-xaA7C5?usp=sharing)  
-[**Additional resources**](https://drive3-pilote.renater.fr/index.php/s/Ejo5RTsHtetRXw3)
+[**Slides (available)**](https://drive.google.com/file/d/15OVtdXQD1OyS80t7L4qcZ33pFkfWZEbt/view?usp=sharing)  
+[**Lab (available)**](https://colab.research.google.com/drive/1hnv8Dy3gdzAXiVuj9vs4yTcKwHTz4l2s?usp=sharing)  
 
 ---
 #### [(Back to Main Page)](../index.md)
