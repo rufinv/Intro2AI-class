@@ -35,7 +35,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1f8MoZRFecxIGyB
 
 ### Notes
 
-[Link to slide](https://docs.google.com/presentation/d/1RhRBy4dZYMCBhC-q_Xhm0KDO3PMpsPFvi8NoKLFM9rY/edit?usp=sharing)
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture8/Lecture_9.pdf)
 
 #### Tutorial Notebook
 
