@@ -19,9 +19,9 @@
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Sept. 30 | 4-6pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 7 | 2-4pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | TBD | Sound processing, speech recognition |  Oct. 7 | 4-6pm |
-| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 14 | 1:30-3:30pm |
-| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking neural networks |  Oct 14 | 3:45-4:45pm |
-| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct 14 | 5-6pm |
+| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 21 | 1:30-3:30pm |
+| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking neural networks |  Oct 21 | 3:45-4:45pm |
+| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct 21 | 5-6pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
