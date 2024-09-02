@@ -1,25 +1,27 @@
-# Intro 2 AI  -  Spring 2024 class
+# Intro 2 AI  -  Fall 2024 class
 
 <!-- <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div> 
 
 <div style="text-align: right"><h3>Registration is closed! (come back again next year)</h3> </div>
 -->
-### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Visio-Conference, 1st floor). It will also be broadcast on zoom for students located abroad.
+### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Conference, 1st floor). It will also be broadcast on zoom for students located abroad.
 
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  March 1 | 2-4pm  |
-| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  March 4 | 2-4pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  March 8 | 2-4pm |
-| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  March 11 | 2-4pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  March 15 | 2-4pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  March 18 | 2-4pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  March 22 | 2-4pm |
-| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  March 25 | 2-4pm |
-| Audio  | [Lecture 9](./Lecture9/index.md) | Ismail Khalfaoui | Sound processing, speech recognition |  March 29 | 2-4pm |
-| TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept. 9 | 1:30-4:30pm  |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  Sept. 16 | 2-4pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept. 16 | 4-6pm |
+| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  Sept. 23 | 2-4pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept. 23 | 4-6pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Sept. 30 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Sept. 30 | 4-6pm |
+| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 7 | 2-4pm |
+| Audio  | [Lecture 9](./Lecture9/index.md) | TBD | Sound processing, speech recognition |  Oct. 7 | 4-6pm |
+| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 14 | 1:30-3:30pm |
+| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking neural networks |  Oct 14 | 3:45-4:45pm |
+| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct 14 | 5-6pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
@@ -41,7 +43,7 @@ Once registered, you will receive the visio-conference links for each class.
 -->
 
 ### Grading
-Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (from lectures 1-9) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (but projects with original and creative thinking will get extra points). The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before May 1st. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on May 11, the maximum grade you can get is 10/20). The main criteria for grading will be:
+Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (from lectures 1-9) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (but projects with original and creative thinking will get extra points). The notebook should be returned (by email to rufin.vanrullen@cnrs.fr) on or before November 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on November 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
 * The addition should be clearly marked in the notebook, e.g. with a title "MY PERSONAL ADDITION IN THE 3 CELLS BELOW"
 * The addition should be explained (e.g. with comments in the code), so one can at least know what you intended to achieve
 * The addition should be non-trivial
