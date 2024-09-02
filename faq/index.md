@@ -28,8 +28,9 @@ on--it's not very friendly for teachers to talk to a wall of black screens.
 
 * I may not be able to attend one or two classes, will the sessions be recorded?
 
-We will both zoom and record this year's lectures. <!-- But previous years' videos have been recorded and will be made available for a few weeks after the class. -->
-This will allow students to catch up, or to return to the recordings and review any part they did not understand.
+No.
+<!-- We will both zoom and record this year's lectures. But previous years' videos have been recorded and will be made available for a few weeks after the class. 
+This will allow students to catch up, or to return to the recordings and review any part they did not understand.-->
 
 <!-- 
 * Can I share the zoom link with other people not registered for the class?
@@ -45,12 +46,12 @@ Feel free to share these links with individual people. Just don't post them on a
 * Where can I get help about the practical parts, Jupyter notebooks, tutorials and assignments?
 
 Send a message on Slack. You can chat directly with a given teacher, or with the whole class.
--->
+
 
 * Where are the links (zoom calls, video recordings...)?
 
 You should receive direct emails with each link. Contact us if you haven't received anything.
-
+-->
 
 * My question is not addressed here, what should I do?
 
