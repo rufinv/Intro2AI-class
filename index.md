@@ -13,15 +13,15 @@
 | Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept. 9 | 1:30-4:30pm  |
 | Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  Sept. 16 | 2-4pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept. 16 | 4-6pm |
-| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  Sept. 23 | 2-4pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept. 23 | 4-6pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Sept. 30 | 2-4pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Sept. 30 | 4-6pm |
-| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 7 | 2-4pm |
-| Audio  | [Lecture 9](./Lecture9/index.md) | TBD | Sound processing, speech recognition |  Oct. 7 | 4-6pm |
-| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 21 | 1:30-3:30pm |
-| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking neural networks |  Oct 21 | 3:45-4:45pm |
-| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct 21 | 5-6pm |
+| NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  Sept. 30 | 2-4pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept. 30 | 4-6pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct. 7 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct. 7 | 4-6pm |
+| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 21 | 2-4pm |
+| Audio  | [Lecture 9](./Lecture9/index.md) | TBD | Sound processing, speech recognition |  Oct. 21 | 4-6pm |
+| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct. 22 | 1:30-3:30pm |
+| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking neural networks |  Oct. 22 | 3:45-4:45pm |
+| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct. 22 | 5-6pm |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
