@@ -1,5 +1,5 @@
 ## Lecture 11b - Brain decoding with Machine Learning
-Teacher: Leila REDDY (CerCo)
+Teacher: Mitja NIKOLAUS (CerCo)
 
 <!-- 
 ### Lecture video
