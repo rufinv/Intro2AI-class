@@ -20,7 +20,7 @@
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 21 | 1:45-3:45pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | TBD | Sound processing, speech recognition |  Oct. 21 | 4-6pm |
 | DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct. 22 | 1:30-3:30pm |
-| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking neural networks |  Oct. 22 | 3:45-4:45pm |
+| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | Ulysse Rancon  | Spiking neural networks |  Oct. 22 | 3:45-4:45pm |
 | DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct. 22 | 5-6pm |
 
 ### Audience
