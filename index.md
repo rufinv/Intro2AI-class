@@ -12,9 +12,9 @@
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept. 9 | 1:30-4:30pm  |
 | Computer Vision  | [Lecture 2](./Lecture2/index.md) | Benjamin Devillers | Image classification |  Sept. 16 | 1:45-3:45pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept. 16 | 4-6pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept. 16 | 4-6pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Chloe Braud | Natural Language Processing basics |  Sept. 30 | 1:45-3:45pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept. 30 | 4-6pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Benjamin Devillers | Unsupervised/zero/few-shot learning |  Sept. 30 | 4-6pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  Oct. 7 | 1:45-3:45pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  Oct. 7 | 4-6pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 21 | 1:45-3:45pm |
