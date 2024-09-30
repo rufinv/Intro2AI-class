@@ -27,7 +27,7 @@ Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMV
 
 
 ### Prerequisites:
-Knowledge about neural networks principles; knowledge of several NN layer types; gradient descent
+Python basics
 
 ---
 #### [(Back to Main Page)](../index.md)
