@@ -12,9 +12,8 @@ Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-page
 
 
 ### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
-2024: new link [here](https://colab.research.google.com/drive/1fS20bFjdWut8nnem5sOzhpVCSQvtkzJj?usp=sharing)
+Access the collab notebook [here](https://colab.research.google.com/drive/1fS20bFjdWut8nnem5sOzhpVCSQvtkzJj?usp=sharing)
 
 ### Contents
 * What is NLP? 
@@ -23,7 +22,10 @@ Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMV
 * Hands-on NLP: learning from text data
 * Applications and learning scenarios
 * To go further: limits and challenges
-* Application : Spacy & Scikit-Learn & Word2Vec 
+* Application : Spacy & Scikit-Learn & Word2Vec
+
+### Old link if issues with the new one
+Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
 
 ### Prerequisites:
