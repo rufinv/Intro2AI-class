@@ -8,7 +8,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1o1VlvY1h5fFO0T
 
 ## Slides
 
-Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/%5BANITI%5D%20Lecture%205%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%2011_03_2024.pdf)
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/Intro2AI_Lecture5_NLP_slides_2425.pdf)
 
 
 ### Notebook
@@ -25,6 +25,9 @@ Access the collab notebook [here](https://colab.research.google.com/drive/1fS20b
 * Application : Spacy & Scikit-Learn & Word2Vec
 
 ### Old link if issues with the new one
+
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/%5BANITI%5D%20Lecture%205%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%2011_03_2024.pdf)
+
 Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
 
