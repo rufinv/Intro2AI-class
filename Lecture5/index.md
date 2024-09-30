@@ -14,6 +14,8 @@ Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-page
 ### Notebook
 Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
+2024: new link [here](https://colab.research.google.com/drive/1fS20bFjdWut8nnem5sOzhpVCSQvtkzJj?usp=sharing)
+
 ### Contents
 * What is NLP? 
 * Fundamentals of linguistics: the main levels of linguistic analysis
