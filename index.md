@@ -4,7 +4,7 @@
 
 <div style="text-align: right"><h3>Registration is closed! (come back again next year)</h3> </div>
 -->
-### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Conference, 1st floor).
+### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan ~~(Salle de Conference, 1st floor)~~ (Salle 219, 2nd floor).
 
 ### Schedule (click on each lecture for details)
 
