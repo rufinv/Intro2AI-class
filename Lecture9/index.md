@@ -1,5 +1,5 @@
 ## Lecture 9 - Sound processing & speech recognition
-Teacher: Ismail Khalfaoui Hassani (ANITI)
+Teacher: Julie Mauclair (IRIT)
 
 <!-- 
 ### Lecture video
