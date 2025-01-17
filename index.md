@@ -10,15 +10,15 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  March 4 | 4-6pm  |
-| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  March 7 | 4-6pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  March 11 | 4-6pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  March 14 | 4-6pm |
-| NLP  | [Lecture 5](./Lecture5/index.md) | Romain Bielawski | Natural Language Processing basics |  March 18 | 4-6pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  March 20 | 4-6pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  March 25 | 4-6pm |
-| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  March 28 | 4-6pm |
-| Audio  | [Lecture 9](./Lecture9/index.md) | Ulysse Rancon | Sound processing, speech recognition |  April 1 | 4-6pm |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  March 4 | 2-4pm  |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  March 7 | 2-4pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  March 11 | 2-4pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  March 14 | 2-4pm |
+| NLP  | [Lecture 5](./Lecture5/index.md) | Romain Bielawski | Natural Language Processing basics |  March 18 | 2-4pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Romain Bielawski | Recurrent Neural Networks for NLP |  March 20 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Romain Bielawski | Attention/Transformers in NLP |  March 25 | 2-4pm |
+| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  March 28 | 2-4pm |
+| Audio  | [Lecture 9](./Lecture9/index.md) | Ulysse Rancon | Sound processing, speech recognition |  April 1 | 2-4pm |
 | TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |
 
 ### Audience
