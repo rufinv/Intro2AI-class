@@ -1,5 +1,5 @@
 ## Lecture 5 - Introduction to Natural Language Processing
-Teacher: Chloe Braud (IRIT)
+Teacher: Eleni Metheniti (ANITI)
 
 <!-- 
 ### Lecture video
