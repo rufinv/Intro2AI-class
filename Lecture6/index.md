@@ -1,5 +1,5 @@
 ## Lecture 6 - Recurrent Neural Networks for text processing
-Teacher: Romain Bielawski (ANITI)
+Teacher: Eleni Metheniti (ANITI)
 
 <!-- 
 ### Lecture video
