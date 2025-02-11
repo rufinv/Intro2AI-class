@@ -1,5 +1,5 @@
 ## Lecture 7 - Attention/Transformers in NLP
-Teacher: Romain Bielawski (ANITI)
+Teacher: Eleni Metheniti (ANITI)
 
 <!-- 
 ### Lecture video
