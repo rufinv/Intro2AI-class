@@ -8,27 +8,30 @@ View the recorded lecture [here](https://drive.google.com/file/d/1o1VlvY1h5fFO0T
 
 ## Slides
 
-Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/Intro2AI_Lecture5_NLP_slides_2425.pdf)
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/NLP1%20-%20NLP%20basics.pdf)
 
 
 ### Notebook
 
-Access the collab notebook [here](https://colab.research.google.com/drive/1fS20bFjdWut8nnem5sOzhpVCSQvtkzJj?usp=sharing)
+Access the Google Colab notebook [here](https://colab.research.google.com/drive/1fS20bFjdWut8nnem5sOzhpVCSQvtkzJj?usp=sharing)
 
 ### Contents
-* What is NLP? 
-* Fundamentals of linguistics: the main levels of linguistic analysis
-* Fundamentals of Natural Language Processing: preprocessing and linguistic processing
-* Hands-on NLP: learning from text data
-* Applications and learning scenarios
-* To go further: limits and challenges
-* Application : Spacy & Scikit-Learn & Word2Vec
+* What is NLP?
+* Fundamentals of linguistics
+* Feature Extraction
+* Getting started in NLP
+  * Our tools for NLP
+  * Representing data
+  * Processing data
+* Final thoughts
+
+* Practical Session: SpaCy & Scikit-Learn & Word2Vec
 
 ### Old link if issues with the new one
 
 Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/%5BANITI%5D%20Lecture%205%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%2011_03_2024.pdf)
 
-Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
+Access the colab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
 
 ### Prerequisites:
