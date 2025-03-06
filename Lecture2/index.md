@@ -1,5 +1,5 @@
 ## Lecture 2 - Image classification
-Teacher: Benjamin DEVILLERS (ANITI)
+Teacher: Victor BOUTIN (ANITI)
 
 <!-- 
 ### Lecture video
