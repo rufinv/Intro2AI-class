@@ -20,7 +20,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWh
 
 ### Notes
 
-[Link to slide](https://docs.google.com/presentation/d/1Z-ZcaVZp4Ex_3LnFEdaiEXaoUEhCubHxaPrhR_utJlQ/edit?usp=sharing)
+[Link to slide](https://docs.google.com/presentation/d/1ICfa1LyIOmqmMCJacD9zLUbE2TNuYdnfUz6RqIfxe-U/edit?usp=sharing)
 
 #### Tutorial Notebook
 [Train MNIST](https://colab.research.google.com/drive/1R2nEz93vMQ9fHjZDsBOIjfnVRPL0P7Sy)
