@@ -15,7 +15,8 @@ View the recorded lecture [here](https://drive.google.com/file/d/1inB8IRrFs9ifN1
   - Generative models: GANs, VAEs
 
 ### Slides
-Access the lecture slides [here](https://docs.google.com/presentation/d/1FJF2uwNeoiXRoosvDzkVG5P72H4yMIhHjmP1r39nxOI/edit?usp=sharing)
+
+Access the lecture slides [here](https://docs.google.com/presentation/d/1m2EYwz3wVHaWOGzkw8mG02zpds8sFX6A0xq9CQoI188/edit?usp=sharing)
 
 ### Notebook
 Access the collab notebook [here](https://colab.research.google.com/drive/17QTrw441BzWrkCKMJMwb42iuzTUZNR8t?usp=sharing) 
