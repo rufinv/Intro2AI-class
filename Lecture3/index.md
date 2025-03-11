@@ -1,5 +1,5 @@
 ## Lecture 3 - Zero-shot, Few-shot and Unsupervised Learning
-Teacher: Benjamin Devillers (ANITI)
+Teacher: Victor Boutin (ANITI)
 
 <!-- 
 ### Lecture video
