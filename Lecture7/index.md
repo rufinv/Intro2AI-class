@@ -1,4 +1,4 @@
-## Lecture 7 - Attention/Transformers in NLP
+## Lecture 7 - Transformers for NLP & LLMs
 Teacher: Eleni Metheniti (ANITI)
 
 <!-- 
@@ -8,11 +8,11 @@ View the recorded lecture [here](https://drive.google.com/file/d/1YeF7TwHO5TbxVD
 
 ### Contents
 
-* Attention in LSTM
-* Self attention and transformer
-* Embedding : Bert
-* Generation : GPT2
-* Application : Grammatical correctness classification, text generation, Movie plot generation
+* Self-attention 
+* The Transformer architecture
+* Transformers for Embedding : BERT
+* Transformers for Generation : GPT2
+* Application : Finetuning and language generation with Transformers
 
 
 ### Prerequisites:
@@ -23,7 +23,7 @@ Knowledge about neural networks principles; knowledge of several NN layer types;
 Download the slides [here](https://docs.google.com/presentation/d/1U8CcFwYOmnplEA3qqjGsM7wi0nZ2nGwBtegW2z2Lgd4/edit?usp=sharing)
 
 ### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
+Access the Colab notebook [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
 
 ### Further reading:
 

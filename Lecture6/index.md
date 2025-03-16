@@ -1,4 +1,4 @@
-## Lecture 6 - Recurrent Neural Networks for text processing
+## Lecture 6 - Recurrent Neural Networks for NLP
 Teacher: Eleni Metheniti (ANITI)
 
 <!-- 
@@ -8,19 +8,21 @@ View the recorded lecture [here](https://drive.google.com/file/d/1Gs8LSEkDLlXxj_
 
 ### Contents
 
-* Sequential data and variable size inputs
-* Recurrent neural network principles, hidden states
-* Backprop through time
-* RNN, LSTM, GRU
-* Sentence embeddings, text generation, seq2seq, machine translation
-* Application : LSTM for text generation
+* What is a Neural Network?
+* Recurrent Neural Networks
+* Introduction to RNNs
+	* RNNs & NLP
+	* Long Short-Term Memory NNs
+* Encoder-Decoder architecture
+* Attention Mechanism
+* Practical session: RNN & LSTM for text generation
 
 ## Slides
 
-Download the slides [here](https://docs.google.com/presentation/d/1KS1_n3JO_4yZ1xCn8tDjkGPiSr2L1RIRN4SVFcXrhgk/edit?usp=sharing)
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/nlp2_rnns.pdf)
 
 ### Notebook
-Access the collab notebook [here](https://colab.research.google.com/drive/1MWqyE46KXhKfL-hpQBMhAHYSlsKejtal?usp=sharing)
+Access the Colab notebook [here](https://colab.research.google.com/drive/1MWqyE46KXhKfL-hpQBMhAHYSlsKejtal?usp=sharing)
 
 
 ### Prerequisites:
@@ -28,6 +30,7 @@ Knowledge about neural networks principles; knowledge of several NN layer types;
 
 
 ### Further reading:
+See [Slide 105](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/nlp2_rnns.pdf)
 
 ---
 #### [(Back to Main Page)](../index.md)
