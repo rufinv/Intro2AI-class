@@ -26,6 +26,7 @@ Download the slides [here](https://docs.google.com/presentation/d/1U8CcFwYOmnplE
 Access the Colab notebook [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
 
 ### Further reading:
+See final slide 
 
 ---
 #### [(Back to Main Page)](../index.md)

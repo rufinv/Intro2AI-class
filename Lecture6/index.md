@@ -15,7 +15,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1Gs8LSEkDLlXxj_
 	* Long Short-Term Memory NNs
 * Encoder-Decoder architecture
 * Attention Mechanism
-* Practical session: RNN & LSTM for text generation
+* Practical session: RNNs & LSTMs for text generation
 
 ## Slides
 
@@ -30,7 +30,7 @@ Knowledge about neural networks principles; knowledge of several NN layer types;
 
 
 ### Further reading:
-See [Slide 105](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/nlp2_rnns.pdf)
+See [Slide 107](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/nlp2_rnns.pdf)
 
 ---
 #### [(Back to Main Page)](../index.md)
