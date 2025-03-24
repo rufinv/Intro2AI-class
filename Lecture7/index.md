@@ -10,8 +10,9 @@ View the recorded lecture [here](https://drive.google.com/file/d/1YeF7TwHO5TbxVD
 
 * Self-attention 
 * The Transformer architecture
-* Transformers for Embedding : BERT
-* Transformers for Generation : GPT2
+* (Large) Language Models
+	* Transformers for Embedding : BERT
+	* Transformers for Generation : GPT2
 * Application : Finetuning and language generation with Transformers
 
 
@@ -20,10 +21,11 @@ Knowledge about neural networks principles; knowledge of several NN layer types;
 
 ## Slides
 
-Download the slides [here](https://docs.google.com/presentation/d/1U8CcFwYOmnplEA3qqjGsM7wi0nZ2nGwBtegW2z2Lgd4/edit?usp=sharing)
+Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture7/7-attn.pdf)
 
 ### Notebook
-Access the Colab notebook [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
+* Colab notebook for lecture [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
+* Curated notebooks on LLM applications [here](https://drive.google.com/drive/folders/14M6S8vgBhMNejgiO9r0R5OZumplSdKW1?usp=sharing)
 
 ### Further reading:
 See final slide 

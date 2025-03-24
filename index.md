@@ -16,7 +16,7 @@
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  March 14 | 2-4pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Eleni Metheniti | Natural Language Processing basics |  March 18 | 2-4pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Eleni Metheniti | Recurrent Neural Networks for NLP |  March 20 | 2-4pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Eleni Metheniti | Attention/Transformers in NLP |  March 25 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Eleni Metheniti | Transformers for NLP & LLMs |  March 25 | 2-4pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  March 28 | 2-4pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | Ulysse Rancon | Sound processing, speech recognition |  April 1 | 2-4pm |
 | TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |
