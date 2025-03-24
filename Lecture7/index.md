@@ -13,7 +13,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1YeF7TwHO5TbxVD
 * (Large) Language Models
 	* Transformers for Embedding : BERT
 	* Transformers for Generation : GPT2
-* Application : Finetuning and language generation with Transformers
+* Application : Finetuning for multi-class classification and Text generation with Transformers
 
 
 ### Prerequisites:
@@ -25,6 +25,7 @@ Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-page
 
 ### Notebook
 * Colab notebook for lecture [here](https://colab.research.google.com/drive/14EV6vfTECPxq_xG9xajAxvd6tBmiGLFf?usp=sharing)
+* Colab notebook for homework [here](https://drive.google.com/file/d/1lKuUf52m_Mg6eDCywiTrq6s6qRobImKu/view?usp=sharing)
 * Curated notebooks on LLM applications [here](https://drive.google.com/drive/folders/14M6S8vgBhMNejgiO9r0R5OZumplSdKW1?usp=sharing)
 
 ### Further reading:
