@@ -1,5 +1,5 @@
 ## Lecture 11a - Spiking neural networks 
-Teacher: Javier Cuadrado Aníbarro (PhD Student, CNRS).
+Teacher: Ulysse Rancon (PhD Student, CNRS).
 
 <!-- 
 ### Lecture video
