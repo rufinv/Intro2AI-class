@@ -1,5 +1,5 @@
 ## Lecture 4 - Object detection and segmentation in computer vision
-Teacher: Mitja NIKOLAUS (CNRS)
+Teacher: Roland BERTIN-JOHANNET (CNRS)
 
 <!-- 
 ### Lecture video
