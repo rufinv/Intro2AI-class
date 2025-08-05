@@ -13,7 +13,7 @@
 | Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept. 8 | 1:30-3:30pm  |
 | Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  Sept. 8 | 3:45-5:45pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  Sept. 15 | 1:30-3:30pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Mitja Nikolaus | Object detection, segmentation |  Sept. 15 | 3:45-5:45pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | R. Bertin-Johannet | Object detection, segmentation |  Sept. 15 | 3:45-5:45pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Eleni Metheniti | Natural Language Processing basics |  Sept. 22 | 1:30-3:30pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Eleni Metheniti | Recurrent Neural Networks for NLP |  Sept. 22 | 3:45-5:45pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Eleni Metheniti | Attention/Transformers in NLP |  Oct. 6 | 1:30-3:30pm |
