@@ -18,8 +18,8 @@
 | NLP  | [Lecture 6](./Lecture6/index.md) | Eleni Metheniti | Recurrent Neural Networks for NLP |  Sept. 22 | 3:45-5:45pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Eleni Metheniti | Attention/Transformers in NLP |  Oct. 6 | 1:30-3:30pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 6 | 3:45-5:45pm |
-| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct. 20 | 1:30-3:30pm |
-| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct. 20 | 3:45-4:45pm |
+| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct. 20 | 9-11am |
+| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct. 20 | 11:15-12:15pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | Ulysse Rancon | Sound processing, speech recognition |  Oct. 21 | 1:30-3:30pm |
 | DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | Ulysse Rancon  | Spiking neural networks |  Oct. 21 | 3:45-4:45pm |
 
