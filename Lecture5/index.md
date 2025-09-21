@@ -13,7 +13,8 @@ Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-page
 
 ### Notebook
 
-Access the Google Colab notebook [here](https://colab.research.google.com/drive/1fS20bFjdWut8nnem5sOzhpVCSQvtkzJj?usp=sharing)
+Access the Google Colab notebook [here](https://colab.research.google.com/drive/15bwgReRdP6O01R8BahP5ESgOeyk2xncH?usp=sharing), also available for download [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/Lecture_5_NLP_(2025).ipynb)
+
 
 ### Contents
 * What is NLP?
@@ -25,14 +26,7 @@ Access the Google Colab notebook [here](https://colab.research.google.com/drive/
   * Processing data
 * Final thoughts
 
-* Practical Session: SpaCy & Scikit-Learn & Word2Vec
-
-### Old link if issues with the new one
-
-Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture5/%5BANITI%5D%20Lecture%205%20-%20Introduction%20to%20Natural%20Language%20Processing%20-%2011_03_2024.pdf)
-
-Access the colab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
-
+* Practical Session: Sentiment analysis with SpaCy, Scikit-Learn & Word2Vec
 
 ### Prerequisites:
 Python basics
