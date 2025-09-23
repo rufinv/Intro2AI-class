@@ -22,7 +22,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1Gs8LSEkDLlXxj_
 Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/nlp2_rnns.pdf)
 
 ### Notebook
-Access the Colab notebook [here](https://colab.research.google.com/drive/1MWqyE46KXhKfL-hpQBMhAHYSlsKejtal?usp=sharing)
+Access the Colab notebook [here](https://colab.research.google.com/drive/1wVI7iELZMnkHJC8IEAfzhZrT3Z7D4Lkh?usp=sharing) or download directly from [here](https://github.com/rufinv/Intro2AI-class/blob/gh-pages/Lecture6/Lecture_6_RNN_Text_Classification_Generation.ipynb)
 
 
 ### Prerequisites:
