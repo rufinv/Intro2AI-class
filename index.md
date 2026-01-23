@@ -1,27 +1,25 @@
-# Intro 2 AI  -  Fall 2025 class
+# Intro 2 AI  -  Spring 2026 class
 
 <!-- <div style="text-align: right"><a href="registration"> <h3>Go to registration</h3></a> </div> 
 
 <div style="text-align: right"><h3>Registration is closed! (come back again next year)</h3> </div>
 -->
-### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Conference, 1st floor).
+### Note: The course is given in-person ("presentiel") at CerCo, Pavillon Baudot, Hopital Purpan (Salle de Visio-Conference 129, 1st floor). It will also be broadcast on zoom for students located abroad.
 
 ### Schedule (click on each lecture for details)
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Leopold Maytie | Neural Networks: History and Foundations |  Sept. 8 | 1:30-3:30pm  |
-| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  Sept. 8 | 3:45-5:45pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  Sept. 15 | 1:30-3:30pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | R. Bertin-Johannet | Object detection, segmentation |  Sept. 15 | 3:45-5:45pm |
-| NLP  | [Lecture 5](./Lecture5/index.md) | Eleni Metheniti | Natural Language Processing basics |  Sept. 22 | 1:30-3:30pm |
-| NLP  | [Lecture 6](./Lecture6/index.md) | Eleni Metheniti | Recurrent Neural Networks for NLP |  Sept. 22 | 3:45-5:45pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Eleni Metheniti | Attention/Transformers in NLP |  Oct. 6 | 1:30-3:30pm |
-| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Leopold Maytie | Multimodal Learning |  Oct. 6 | 3:45-5:45pm |
-| DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct. 20 | 9-11am |
-| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Mitja Nikolaus | Brain decoding with Machine Learning |  Oct. 20 | 11:15-12:15pm |
-| Audio  | [Lecture 9](./Lecture9/index.md) | Ulysse Rancon | Sound processing, speech recognition |  Oct. 21 | 1:30-3:30pm |
-| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | Ulysse Rancon  | Spiking neural networks |  Oct. 21 | 3:45-4:45pm |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Yusuf Helal | Neural Networks: History and Foundations |  March 10 | 2-4pm  |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  March 13 | 2-4pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  March 17 | 2-4pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Roland Bertin-Johannet | Object detection, segmentation |  March 20 | 2-4pm |
+| NLP  | [Lecture 5](./Lecture5/index.md) | Raja Kumar | Natural Language Processing basics |  March 24 | 2-4pm |
+| NLP  | [Lecture 6](./Lecture6/index.md) | Raja Kumar | Recurrent Neural Networks for NLP |  March 27 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Raja Kumar | Transformers for NLP & LLMs |  March 31 | 2-4pm |
+| Computer Vision  | [Lecture 8](./Lecture8/index.md) | Luca Gonzalez-Sommer | Multimodal Learning |  April 3 | 2-4pm |
+| Audio  | [Lecture 9](./Lecture9/index.md) | Jean-Felix Maestrati| Sound processing, speech recognition |  April 7 | 2-4pm |
+| TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |
 
 ### Audience
 This class, provided by [ANITI](https://aniti.univ-toulouse.fr/en/), is intended for a M2-level audience with no advanced background in Computer Science or Maths (e.g. Neuro, Bio, Medical, etc.). The classes will be in English, and there will be a mixture of lectures and practical work (TP), with at-home assignments. For the practical parts, prior experience with Python programming will be required. 
@@ -43,12 +41,10 @@ Once registered, you will receive the visio-conference links for each class.
 -->
 
 ### Grading
-Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (from lectures 1-9) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (but projects with original and creative thinking will get extra points). The link to the colab notebook (**after** making sure that it is *"shared for anyone with the link"*) should be submitted by email to rufin.vanrullen@cnrs.fr on or before November 15. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on November 25, the maximum grade you can get is 10/20). The main criteria for grading will be:
+Grading will be based on **individual projects**. Each student should choose **ONE** of the course notebooks (from lectures 1-9) and complement it with a *significant* personal work. Just create one or more cells at the end of the notebook, clearly marked with your personal addition. It could be a change in the model's architecture, an adaptation of the model to a new task or dataset, etc. If you lack inspiration, feel free to start from the "exercises" or personal work suggested at the end of each notebook (but projects with original and creative thinking will get extra points). The link to the colab notebook (**after** making sure that it is *"shared for anyone with the link"*) should be submitted by email to rufin.vanrullen@cnrs.fr on or before May 1st. This is a firm deadline, the grade will decrease by 1 point for each late day (e.g. if you send your notebook on May 11, the maximum grade you can get is 10/20). The main criteria for grading will be:
 * The addition should be clearly marked in the notebook, e.g. with a title "MY PERSONAL ADDITION IN THE 3 CELLS BELOW"
 * The addition should be explained (e.g. with comments in the code), so one can at least know what you intended to achieve
 * The addition should be non-trivial
 * The addition should reflect significant work and effort
 * The addition should make it clear that the student has understood the lecture and notebook
 * The addition should *work*, i.e. it should be possible to evaluate the cells without returning an error.
-
-
