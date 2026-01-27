@@ -19,6 +19,7 @@
 | NLP  | [Lecture 7](./Lecture7/index.md) | Raja Kumar | Transformers for NLP & LLMs |  March 31 | 2-4pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Luca Gonzalez-Sommer | Multimodal Learning |  April 3 | 2-4pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | Jean-Felix Maestrati| Sound processing, speech recognition |  April 7 | 2-4pm |
+
 <!--| TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |-->
 
 ### Audience
