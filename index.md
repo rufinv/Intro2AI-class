@@ -11,7 +11,7 @@
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Neural Networks  | [Lecture 1](./Lecture1/index.md) | Yusuf Helal | Neural Networks: History and Foundations |  March 10 | 2-4pm  |
-| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  March 13 | 2-4pm |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  March 10 | 4-6pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  March 17 | 2-4pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Roland Bertin-Johannet | Object detection, segmentation |  March 20 | 2-4pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Raja Kumar | Natural Language Processing basics |  March 24 | 2-4pm |
