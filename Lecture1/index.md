@@ -1,7 +1,7 @@
 ## Lecture 1 - Neural Networks: History and Foundations
-Teacher: Leopold Maytie (ANITI)
+Teacher: Yusuf ELHELW (CerCo, ANITI)
 
-mail : leopold.maytie@univ-tlse3.fr
+mail : yusuf.elhelw@univ-tlse3.fr
 
 <!-- 
 ### Lecture video
