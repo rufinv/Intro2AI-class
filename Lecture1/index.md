@@ -11,7 +11,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1kMtJOhz74V955F
 
 ### Slides
 
-Download the slides [here](https://docs.google.com/presentation/d/1sSGAYvul73v0tUcPcACl7RLIoEkXLwwh6i7ggQBh-Yk/edit?usp=sharing)
+Download the slides [here](https://docs.google.com/presentation/d/14Bgbu5TMcT8y8cFB1VNxqbtrDb8IV7E84JYt433WEG0/edit?usp=sharing)
 
 ### Contents
 
