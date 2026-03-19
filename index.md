@@ -16,7 +16,7 @@
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Roland Bertin-Johannet | Object detection, segmentation |  March 20 | 2-4pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Raja Kumar | Natural Language Processing basics |  March 24 | 2-4pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Raja Kumar | Recurrent Neural Networks for NLP |  March 27 | 2-4pm |
-| NLP  | [Lecture 7](./Lecture7/index.md) | Raja Kumar | Transformers for NLP & LLMs |  March 31 | 2-4pm |
+| NLP  | [Lecture 7](./Lecture7/index.md) | Raja Kumar | Transformers for NLP & LLMs |  March 27 | 4-6pm |
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Luca Gonzalez-Sommer | Multimodal Learning |  April 3 | 2-4pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | Jean-Felix Maestrati| Sound processing, speech recognition |  April 7 | 2-4pm |
 
