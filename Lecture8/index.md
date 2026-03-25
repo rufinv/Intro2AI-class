@@ -1,5 +1,5 @@
 ## Lecture 8 - Multimodal Learning
-Teacher: Leopold Maytie (ANITI)
+Teacher: Luca Gonzalez-Sommer (ANITI)
 
 <!-- 
 ### Lecture video
