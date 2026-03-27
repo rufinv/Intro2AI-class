@@ -39,7 +39,7 @@ Download the slides [here](https://github.com/rufinv/Intro2AI-class/blob/gh-page
 
 #### Tutorial Notebook
 
-[Link to Colab Notebook](https://colab.research.google.com/drive/17bFp1GR2t1UlkG5uqOWAZDZAVMyIHnaC?usp=sharing)
+[Link to Colab Notebook]([https://colab.research.google.com/drive/17bFp1GR2t1UlkG5uqOWAZDZAVMyIHnaC?usp=sharing](https://colab.research.google.com/drive/1dOMQc2eQO-6_HgucEk0Ef-s5C4HgoYjQ?usp=sharing))
 
 ---
 #### [(Back to Main Page)](../index.md)
