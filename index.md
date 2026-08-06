@@ -13,7 +13,7 @@
 | Neural Networks  | [Lecture 1](./Lecture1/index.md) | Yusuf Helal | Neural Networks: History and Foundations |  Sept 7 | 1.30-3.30pm  |
 | Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  Sept 7 | 4-6pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  Sept 14 | 1.30-3.30pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Roland Bertin-Johannet | Object detection, segmentation |  Sept 14 | 4-6pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | TBD | Object detection, segmentation |  Sept 14 | 4-6pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Raja Kumar | Natural Language Processing basics |  Sept 21 | 1.30-3.30pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Raja Kumar | Recurrent Neural Networks for NLP |  Sept 21 | 4-6pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Raja Kumar | Transformers for NLP & LLMs |  Sept 28 | 1.30-3.30pm |
