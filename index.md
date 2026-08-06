@@ -20,7 +20,7 @@
 | Computer Vision  | [Lecture 8](./Lecture8/index.md) | Luca Gonzalez-Sommer | Multimodal Learning |  Sept 28 | 4-6pm |
 | Audio  | [Lecture 9](./Lecture9/index.md) | Jean-Felix Maestrati | Sound processing, speech recognition |  Oct 5 | 1.30-3.30pm |
 | DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 5 | 4-6pm |
-| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | Jean-Felix Maestrati  | Spiking Neural Networks |  Oct 19 | 1.30-3.30pm |
+| DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking Neural Networks |  Oct 19 | 1.30-3.30pm |
 | DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | TBD | Brain decoding with Machine Learning |  Oct 19 | 4-6pm |
 
 <!--| TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |-->
