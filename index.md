@@ -10,10 +10,10 @@
 
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
-| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Yusuf Helal | Neural Networks: History and Foundations |  Sept 7 | 1.30-3.30pm  |
+| Neural Networks  | [Lecture 1](./Lecture1/index.md) | Jan Bellingrath | Neural Networks: History and Foundations |  Sept 7 | 1.30-3.30pm  |
 | Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  Sept 7 | 4-6pm |
 | Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  Sept 14 | 1.30-3.30pm |
-| Computer Vision  | [Lecture 4](./Lecture4/index.md) | TBD | Object detection, segmentation |  Sept 14 | 4-6pm |
+| Computer Vision  | [Lecture 4](./Lecture4/index.md) | Jan Bellingrath | Object detection, segmentation |  Sept 14 | 4-6pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Raja Kumar | Natural Language Processing basics |  Sept 21 | 1.30-3.30pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Raja Kumar | Recurrent Neural Networks for NLP |  Sept 21 | 4-6pm |
 | NLP  | [Lecture 7](./Lecture7/index.md) | Raja Kumar | Transformers for NLP & LLMs |  Sept 28 | 1.30-3.30pm |
@@ -21,7 +21,7 @@
 | Audio  | [Lecture 9](./Lecture9/index.md) | Jean-Felix Maestrati | Sound processing, speech recognition |  Oct 5 | 1.30-3.30pm |
 | DL/Neuro  | [Lecture 10](./Lecture10/index.md) | Rufin VanRullen | Homologies between brain & CNNs |  Oct 5 | 4-6pm |
 | DL/Neuro  | [Lecture 11a](./Lecture11a/index.md) | TBD  | Spiking Neural Networks |  Oct 19 | 2-3pm |
-| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | TBD | Brain decoding with Machine Learning |  Oct 19 | 3.15-4.15pm |
+| DL/Neuro  | [Lecture 11b](./Lecture11b/index.md) | Luca Gonzalez-Sommer | Brain decoding with Machine Learning |  Oct 19 | 3.15-4.15pm |
 
 <!--| TBD | [Lecture 10](./Lecture_MS/index.md) | Mathieu Serrurier | TBD | TBD | TBD |-->
 
