@@ -11,8 +11,8 @@
 | Topic | Lecture # | Teacher | Sub-topic | Date  |  Time   |
 |--------------|---------|---------------|----------------------------|--------------|--------|
 | Neural Networks  | [Lecture 1](./Lecture1/index.md) | Jan Bellingrath | Neural Networks: History and Foundations |  Sept 7 | 1.30-3.30pm  |
-| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Victor Boutin | Image classification |  Sept 7 | 4-6pm |
-| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Victor Boutin | Unsupervised/zero/few-shot learning |  Sept 14 | 1.30-3.30pm |
+| Computer Vision  | [Lecture 2](./Lecture2/index.md) | Bastien Lelan | Image classification |  Sept 7 | 4-6pm |
+| Computer Vision  | [Lecture 3](./Lecture3/index.md) | Bastien Lelan | Unsupervised/zero/few-shot learning |  Sept 14 | 1.30-3.30pm |
 | Computer Vision  | [Lecture 4](./Lecture4/index.md) | Jan Bellingrath | Object detection, segmentation |  Sept 14 | 4-6pm |
 | NLP  | [Lecture 5](./Lecture5/index.md) | Raja Kumar | Natural Language Processing basics |  Sept 21 | 1.30-3.30pm |
 | NLP  | [Lecture 6](./Lecture6/index.md) | Raja Kumar | Recurrent Neural Networks for NLP |  Sept 21 | 4-6pm |
