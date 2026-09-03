@@ -1,5 +1,5 @@
 ## Lecture 2 - Image classification
-Teacher: Victor BOUTIN (ANITI)
+Teacher: Bastien LE LAN (ANITI)
 
 <!-- 
 ### Lecture video
