@@ -1,5 +1,5 @@
 ## Lecture 3 - Zero-shot, Few-shot and Unsupervised Learning
-Teacher: Victor Boutin (ANITI)
+Teacher: Bastien LELAN (ANITI)
 
 <!-- 
 ### Lecture video
