@@ -1,7 +1,7 @@
 ## Lecture 1 - Neural Networks: History and Foundations
-Teacher: Yusuf ELHELW (CerCo, ANITI)
+Teacher: Jan-Erik BELLINGRATH (CerCo, ANITI)
 
-mail : yusuf.elhelw@univ-tlse3.fr
+mail : jan-erik.bellingrath@cnrs.fr
 
 <!-- 
 ### Lecture video
