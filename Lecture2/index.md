@@ -1,5 +1,5 @@
 ## Lecture 2 - Image classification
-Teacher: Bastien LE LAN (ANITI)
+Teacher: Bastien LELAN (ANITI)
 
 <!-- 
 ### Lecture video
