@@ -1,5 +1,5 @@
 ## Lecture 4 - Object detection and segmentation in computer vision
-Teacher: Roland BERTIN-JOHANNET (CNRS)
+Teacher: Jan-Erik BELLINGRATH (CNRS)
 
 <!-- 
 ### Lecture video
