@@ -1,5 +1,5 @@
 ## Lecture 2 - Image classification
-Teacher: Bastien LELAN (ANITI)
+Teacher: Bastien LE LAN (ANITI)
 
 <!-- 
 ### Lecture video
@@ -19,8 +19,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1BGqIXvroBuZlWh
 * Models of classification
 
 ### Notes
-
-[Link to slide](https://docs.google.com/presentation/d/1ICfa1LyIOmqmMCJacD9zLUbE2TNuYdnfUz6RqIfxe-U/edit?usp=sharing)
+[Link to slide](https://docs.google.com/presentation/d/1FWbZoZqxIB1O6jrXEenjOvL8zYyttkhjIkISr5a88Zg/edit?usp=sharing)
 
 #### Tutorial Notebook
 [Train MNIST](https://colab.research.google.com/drive/1R2nEz93vMQ9fHjZDsBOIjfnVRPL0P7Sy)
