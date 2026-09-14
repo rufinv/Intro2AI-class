@@ -1,5 +1,5 @@
 ## Lecture 3 - Zero-shot, Few-shot and Unsupervised Learning
-Teacher: Bastien LELAN (ANITI)
+Teacher: Bastien LE LAN (ANITI)
 
 <!-- 
 ### Lecture video
@@ -16,7 +16,7 @@ View the recorded lecture [here](https://drive.google.com/file/d/1inB8IRrFs9ifN1
 
 ### Slides
 
-Access the lecture slides [here](https://docs.google.com/presentation/d/1m2EYwz3wVHaWOGzkw8mG02zpds8sFX6A0xq9CQoI188/edit?usp=sharing)
+Access the lecture slides [here](https://docs.google.com/presentation/d/19NjoQpwzbg7M8rC8bM2Cr7rBDuglfnVzGmT2DFHI2-4/edit?usp=sharing)
 
 ### Notebook
 Access the collab notebook [here](https://colab.research.google.com/drive/17QTrw441BzWrkCKMJMwb42iuzTUZNR8t?usp=sharing) 
